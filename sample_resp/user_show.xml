@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[uQqQgYMhGYyUNkfGFtAuIA]]></key>
+    <method><![CDATA[user_show]]></method>
+  </Request>
+  <user>
+  <id>37957418</id>
+  <name>Angian</name>
+  <user_name></user_name>
+  <link><![CDATA[https://www.goodreads.com/user/show/37957418-angian]]></link>
+  <image_url><![CDATA[https://images.gr-assets.com/users/1515854127p3/37957418.jpg]]></image_url>
+  <small_image_url><![CDATA[https://images.gr-assets.com/users/1515854127p2/37957418.jpg]]></small_image_url>
+    <about></about>
+    <age></age>
+    <gender>Male</gender>
+    <location>Milan, Italy</location>
+    <website></website>
+    <joined>12/2014</joined>
+    <last_active>03/2019</last_active>
+    <interests></interests>
+    <favorite_books></favorite_books>
+    <favorite_authors>
+    </favorite_authors>
+    <updates_rss_url><![CDATA[https://www.goodreads.com/user/updates_rss/37957418?key=BMcQD6asBxjehjy_U9ObGrtFfBUPsDCQP2DPAjG2Dcdzpqge]]></updates_rss_url>
+    <reviews_rss_url><![CDATA[https://www.goodreads.com/review/list_rss/37957418?key=BMcQD6asBxjehjy_U9ObGrtFfBUPsDCQP2DPAjG2Dcdzpqge&shelf=%23ALL%23]]></reviews_rss_url>
+    <friends_count type="integer">6</friends_count>
+    <groups_count>1</groups_count>
+    <reviews_count type="integer">662</reviews_count>
+    <user_shelves type="array">
+  <user_shelf>
+    <id type="integer">123557012</id>
+    <name>read</name>
+    <book_count type="integer">554</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">true</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">123557011</id>
+    <name>currently-reading</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">123557010</id>
+    <name>to-read</name>
+    <book_count type="integer">107</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort></sort>
+    <order>a</order>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835194</id>
+    <name>19th-century</name>
+    <book_count type="integer">2</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835235</id>
+    <name>20th-century</name>
+    <book_count type="integer">15</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304836823</id>
+    <name>21th-century</name>
+    <book_count type="integer">4</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304728484</id>
+    <name>art</name>
+    <book_count type="integer">2</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835669</id>
+    <name>classics</name>
+    <book_count type="integer">4</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304834842</id>
+    <name>e-book</name>
+    <book_count type="integer">25</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort>num_pages</sort>
+    <order>a</order>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304725947</id>
+    <name>gothic</name>
+    <book_count type="integer">3</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835501</id>
+    <name>history</name>
+    <book_count type="integer">2</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304840201</id>
+    <name>library</name>
+    <book_count type="integer">5</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304840998</id>
+    <name>mlol</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835889</id>
+    <name>non-fiction</name>
+    <book_count type="integer">13</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">123764279</id>
+    <name>owned</name>
+    <book_count type="integer">0</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304837589</id>
+    <name>poetry</name>
+    <book_count type="integer">5</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835403</id>
+    <name>religion</name>
+    <book_count type="integer">10</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835030</id>
+    <name>sci-fi</name>
+    <book_count type="integer">4</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835069</id>
+    <name>science</name>
+    <book_count type="integer">24</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304838813</id>
+    <name>sport</name>
+    <book_count type="integer">6</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304835569</id>
+    <name>technology</name>
+    <book_count type="integer">5</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304839032</id>
+    <name>theater</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">304839189</id>
+    <name>western</name>
+    <book_count type="integer">11</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+</user_shelves>
+      <updates type="array">
+      <update type="review">
+      <action_text><![CDATA[gave 2 stars to <a href="https://www.goodreads.com/book/show/43841689-enigmi">Enigmi: I migliori rompicapi logici e matematici di tutti i tempi (Paperback)</a> by <a href="https://www.goodreads.com/author/show/398989.Alex_Bellos">Alex Bellos</a>]]></action_text>
+      <link>https://www.goodreads.com/review/show/2730926403</link>
+      <image_url>https://images.gr-assets.com/books/1549364339s/43841689.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 26 Feb 2019 12:50:51 -0800</updated_at>
+          <action type="rating">
+            <rating>2</rating>
+          </action>
+        <object>
+          <book>
+            <id>43841689</id>
+            <title><![CDATA[Enigmi: I migliori rompicapi logici e matematici di tutti i tempi]]></title>
+            <link>https://www.goodreads.com/book/show/43841689-enigmi</link>
+            <authors>
+<author>
+<id>398989</id>
+<name>Alex Bellos</name>
+<role></role>
+<image_url nophoto=\'false\'>
+<![CDATA[https://images.gr-assets.com/authors/1343975269p5/398989.jpg]]>
+</image_url>
+<small_image_url nophoto=\'false\'>
+<![CDATA[https://images.gr-assets.com/authors/1343975269p2/398989.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/398989.Alex_Bellos]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>6209</ratings_count>
+<text_reviews_count>653</text_reviews_count>
+</author>
+</authors>
+          </book>
+        </object>
+    </update>
+      <update type="review">
+      <action_text><![CDATA[gave 3 stars to <a href="https://www.goodreads.com/book/show/9718342-l-islam-spiegato-ai-nostri-figli">L\'Islam spiegato ai nostri figli (Paperback)</a> by <a href="https://www.goodreads.com/author/show/5716305.Tahar_Ben_Jelloun">Tahar Ben Jelloun</a>]]></action_text>
+      <link>https://www.goodreads.com/review/show/2721342663</link>
+      <image_url>https://images.gr-assets.com/books/1336917127s/9718342.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 12:18:26 -0800</updated_at>
+          <action type="rating">
+            <rating>3</rating>
+          </action>
+        <object>
+          <book>
+            <id>9718342</id>
+            <title><![CDATA[L\'Islam spiegato ai nostri figli]]></title>
+            <link>https://www.goodreads.com/book/show/9718342-l-islam-spiegato-ai-nostri-figli</link>
+            <authors>
+<author>
+<id>5716305</id>
+<name>Tahar Ben Jelloun</name>
+<role></role>
+<image_url nophoto=\'false\'>
+<![CDATA[https://images.gr-assets.com/authors/1508017324p5/5716305.jpg]]>
+</image_url>
+<small_image_url nophoto=\'false\'>
+<![CDATA[https://images.gr-assets.com/authors/1508017324p2/5716305.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5716305.Tahar_Ben_Jelloun]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>21372</ratings_count>
+<text_reviews_count>3666</text_reviews_count>
+</author>
+</authors>
+          </book>
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2721341832">Uncle Silas</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2786451225</link>
+      <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 04:56:14 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2786451225</id>
+  <review_id type="integer">2721341832</review_id>
+  <user_id type="integer">37957418</user_id>
+  <old_status>read</old_status>
+  <status>to-read</status>
+  <updated_at type="datetime">2019-02-19T12:56:14+00:00</updated_at>
+  <review>
+    <id type="integer">2721341832</id>
+    <user_id type="integer">37957418</user_id>
+    <book_id type="integer">49190</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2019-02-19T12:56:13+00:00</updated_at>
+    <created_at type="datetime">2019-02-19T10:57:21+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">2847087</work_id>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2019-02-19T12:56:13+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <encrypted_notes nil="true"/>
+    <notes nil="true"/>
+    <book>
+      <id type="integer">49190</id>
+      <work_id type="integer">2847087</work_id>
+      <isbn>0140437460</isbn>
+      <isbn13>9780140437461</isbn13>
+      <title>Uncle Silas</title>
+      <sort_by_title>uncle silas</sort_by_title>
+      <author_id type="integer">26930</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>One of the most significant and intriguing Gothic novels of the Victorian period and is enjoyed today as a modern psychological thriller. In UNCLE SILAS (1864) Le Fanu brought up to date Mrs Radcliffe\'s earlier tales of virtue imprisoned and menaced by unscrupulous schemers. The narrator, Maud Ruthyn, is a 17 year old orphan left in the care of her fearful uncle, Silas. Together with his boorish son and a sinister French governess, Silas plots to kill Maud and claim her fortune. The novel established Le Fanu as a master of horror fiction.</description>
+      <format>Paperback</format>
+      <publication_year type="integer">2001</publication_year>
+      <publication_month type="integer">6</publication_month>
+      <publication_day type="integer">1</publication_day>
+      <num_pages type="integer">477</num_pages>
+      <publisher>Penguin Books </publisher>
+      <language_code>eng</language_code>
+      <edition_information>Penguin Classics</edition_information>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2013-05-06T18:27:19+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-05-16T14:54:42+00:00</s3_image_at>
+      <reviews_count type="integer">21046</reviews_count>
+      <ratings_sum type="integer">18172</ratings_sum>
+      <ratings_count type="integer">4849</ratings_count>
+      <text_reviews_count type="integer">314</text_reviews_count>
+      <book_authors_count type="integer">1</book_authors_count>
+      <updated_at type="datetime">2018-09-16T17:49:39+00:00</updated_at>
+      <created_at type="datetime">2007-02-01T19:24:51+00:00</created_at>
+      <author_id_updater_user_id type="integer">-1018</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">2631425</author_role_updater_user_id>
+      <description_updater_user_id type="integer">236356</description_updater_user_id>
+      <edition_information_updater_user_id type="integer">6029578</edition_information_updater_user_id>
+      <format_updater_user_id type="integer">-1018</format_updater_user_id>
+      <image_updater_user_id type="integer">18436601</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-1018</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-1018</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">5355846</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">2499261</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">2631425</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">1525599</publisher_updater_user_id>
+      <title_updater_user_id type="integer">2631425</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">26930</id>
+        <name>J. Sheridan Le Fanu</name>
+        <updated_at type="datetime">2019-03-03T16:11:39+00:00</updated_at>
+        <created_at type="datetime">2007-02-01T17:09:12+00:00</created_at>
+        <searched_for_at type="datetime">2007-04-06T05:11:41+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2014-09-10T08:14:10+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>IE</country_code>
+        <born_at type="date">1814-08-28</born_at>
+        <died_at type="date">1873-02-07</died_at>
+        <about>Joseph Thomas Sheridan Le Fanu was an Irish writer of Gothic tales and mystery novels. He was the leading ghost-story writer of the nineteenth century and was central to the development of the genre in the Victorian era. [a:M.R. James|2995925] described Le Fanu as "absolutely in the first rank as a writer of ghost stories". Three of his best-known works are &lt;i&gt;Uncle Silas, Carmilla&lt;/i&gt; and &lt;i&gt;The House by the Churchyard&lt;/i&gt;.</about>
+        <uploader_user_id type="integer">14309930</uploader_user_id>
+        <image_copyright>http://talesofmytery.blogspot.in/2014/03/joseph-sheridan-le-fanu-mr-justice.html#.VBAH1NQUSWw</image_copyright>
+        <influences></influences>
+        <url></url>
+        <genre1>Literature &amp; Fiction</genre1>
+        <genre2>Horror</genre2>
+        <genre3>Short Stories</genre3>
+        <books_count type="integer">2577</books_count>
+        <reviews_count type="integer">189514</reviews_count>
+        <ratings_sum type="integer">242622</ratings_sum>
+        <works_count type="integer">641</works_count>
+        <hometown>Dublin</hometown>
+        <rating_dist>5:589|4:851|3:683|2:173|1:22|total:2318</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:04:34+00:00</s3_image_at>
+        <ratings_count type="integer">63184</ratings_count>
+        <text_reviews_count type="integer">4883</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">304</fanships_count>
+        <best_book_id type="integer">48037</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>le fanu, j. sheridan</sort_by_name>
+        <shelf_display_name>Le Fanu, J. Sheridan</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2721347114">Storia delle idee del calcio</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2786360110</link>
+      <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 03:07:04 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2786360110</id>
+  <review_id type="integer">2721347114</review_id>
+  <user_id type="integer">37957418</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2019-02-19T11:07:04+00:00</updated_at>
+  <review>
+    <id type="integer">2721347114</id>
+    <user_id type="integer">37957418</user_id>
+    <book_id type="integer">9774314</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2019-02-19T11:07:10+00:00</updated_at>
+    <created_at type="datetime">2019-02-19T11:07:03+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">14663954</work_id>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2019-02-19T11:07:10+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <encrypted_notes nil="true"/>
+    <notes nil="true"/>
+    <book>
+      <id type="integer">9774314</id>
+      <work_id type="integer">14663954</work_id>
+      <isbn>8860736072</isbn>
+      <isbn13>9788860736079</isbn13>
+      <title>Storia delle idee del calcio</title>
+      <sort_by_title>storia delle idee del calcio</sort_by_title>
+      <author_id type="integer">4480582</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description></description>
+      <format>Hardcover</format>
+      <publication_year type="integer">2009</publication_year>
+      <publication_month type="integer" nil="true"/>
+      <publication_day type="integer" nil="true"/>
+      <num_pages type="integer">389</num_pages>
+      <publisher>Baldini Castoldi Dalai</publisher>
+      <language_code>ita</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2014-07-22T13:01:53+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-06-16T00:19:37+00:00</s3_image_at>
+      <reviews_count type="integer">64</reviews_count>
+      <ratings_sum type="integer">116</ratings_sum>
+      <ratings_count type="integer">32</ratings_count>
+      <text_reviews_count type="integer">5</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2015-06-16T00:19:37+00:00</updated_at>
+      <created_at type="datetime">2010-11-26T23:06:38+00:00</created_at>
+      <author_id_updater_user_id type="integer">4586079</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">4586079</author_role_updater_user_id>
+      <description_updater_user_id type="integer">4586079</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">4540522</format_updater_user_id>
+      <image_updater_user_id type="integer">4540522</image_updater_user_id>
+      <isbn_updater_user_id type="integer">4540522</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">4586079</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">4540522</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">4540522</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">4540522</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">4540522</publisher_updater_user_id>
+      <title_updater_user_id type="integer">4586079</title_updater_user_id>
+      <url_updater_user_id type="integer">4586079</url_updater_user_id>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">4480582</id>
+        <name>Mario Sconcerti</name>
+        <updated_at type="datetime">2016-10-07T09:01:58+00:00</updated_at>
+        <created_at type="datetime">2010-11-26T23:06:38+00:00</created_at>
+        <searched_for_at type="datetime">2010-11-28T19:10:29+00:00</searched_for_at>
+        <image_uploaded_at type="datetime" nil="true"/>
+        <user_id type="integer" nil="true"/>
+        <gender nil="true"/>
+        <country_code nil="true"/>
+        <born_at type="datetime" nil="true"/>
+        <died_at type="datetime" nil="true"/>
+        <about nil="true"/>
+        <uploader_user_id type="integer">0</uploader_user_id>
+        <image_copyright nil="true"/>
+        <influences nil="true"/>
+        <url nil="true"/>
+        <genre1 nil="true"/>
+        <genre2 nil="true"/>
+        <genre3 nil="true"/>
+        <books_count type="integer">11</books_count>
+        <reviews_count type="integer">87</reviews_count>
+        <ratings_sum type="integer">173</ratings_sum>
+        <works_count type="integer">9</works_count>
+        <hometown nil="true"/>
+        <rating_dist>5:0|4:0|3:1|2:0|1:0|total:1</rating_dist>
+        <s3_image_at type="datetime" nil="true"/>
+        <ratings_count type="integer">48</ratings_count>
+        <text_reviews_count type="integer">7</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">0</fanships_count>
+        <best_book_id type="integer">9774314</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>sconcerti, mario</sort_by_name>
+        <shelf_display_name>Sconcerti, Mario</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2721346675">Perch\xc3\xa9 leggere i classici</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2786359519</link>
+      <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 03:06:10 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2786359519</id>
+  <review_id type="integer">2721346675</review_id>
+  <user_id type="integer">37957418</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2019-02-19T11:06:10+00:00</updated_at>
+  <review>
+    <id type="integer">2721346675</id>
+    <user_id type="integer">37957418</user_id>
+    <book_id type="integer">221605</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2019-02-19T11:06:26+00:00</updated_at>
+    <created_at type="datetime">2019-02-19T11:06:10+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">1194952</work_id>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2019-02-19T11:06:26+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <encrypted_notes nil="true"/>
+    <notes nil="true"/>
+    <book>
+      <id type="integer">221605</id>
+      <work_id type="integer">1194952</work_id>
+      <isbn>8804401400</isbn>
+      <isbn13>9788804401407</isbn13>
+      <title>Perch\xc3\xa9 leggere i classici</title>
+      <sort_by_title>perch\xc3\xa9 leggere i classici</sort_by_title>
+      <author_id type="integer">155517</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>"I classici sono libri che quanto pi\xc3\xb9 si crede di conoscerli per sentito dire, tanto pi\xc3\xb9 quando si leggono davvero si trovano nuovi, inaspettati, inediti... \xc3\x88 classico ci\xc3\xb2 che tende a relegare l\'attualit\xc3\xa0 al rango di rumore di fondo, ma nello stesso tempo di questo rumore di fondo non pu\xc3\xb2 fare a meno." (Italo Calvino)</description>
+      <format>Paperback</format>
+      <publication_year type="integer">1995</publication_year>
+      <publication_month type="integer">10</publication_month>
+      <publication_day type="integer">3</publication_day>
+      <num_pages type="integer">306</num_pages>
+      <publisher>Mondadori</publisher>
+      <language_code>ita</language_code>
+      <edition_information>Opere di Italo Calvino</edition_information>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2018-09-28T08:13:04+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2018-09-28T08:13:08+00:00</s3_image_at>
+      <reviews_count type="integer">769</reviews_count>
+      <ratings_sum type="integer">727</ratings_sum>
+      <ratings_count type="integer">183</ratings_count>
+      <text_reviews_count type="integer">15</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2018-09-28T08:13:09+00:00</updated_at>
+      <created_at type="datetime">2007-03-02T12:09:55+00:00</created_at>
+      <author_id_updater_user_id type="integer">-30</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">1916127</author_role_updater_user_id>
+      <description_updater_user_id type="integer">5973245</description_updater_user_id>
+      <edition_information_updater_user_id type="integer">5973245</edition_information_updater_user_id>
+      <format_updater_user_id type="integer">-30</format_updater_user_id>
+      <image_updater_user_id type="integer">65017290</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-30</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-30</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">5973245</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">23298567</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">1916127</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">1916127</publisher_updater_user_id>
+      <title_updater_user_id type="integer">1916127</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">155517</id>
+        <name>Italo Calvino</name>
+        <updated_at type="datetime">2019-03-06T09:26:20+00:00</updated_at>
+        <created_at type="datetime">2007-03-07T13:54:30+00:00</created_at>
+        <searched_for_at type="datetime">2007-03-12T05:05:45+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2017-08-05T23:24:21+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>CU</country_code>
+        <born_at type="date">1923-10-15</born_at>
+        <died_at type="date">1985-09-19</died_at>
+        <about>Italo Calvino was born in Cuba and grew up in Italy. He was a journalist and writer of short stories and novels. His best known works include the &lt;i&gt;Our Ancestors&lt;/i&gt; trilogy (1952-1959), the &lt;i&gt;Cosmicomics&lt;/i&gt; collection of short stories (1965), and the novels &lt;i&gt;Invisible Cities&lt;/i&gt; (1972) and &lt;i&gt;If On a Winter\'s Night a Traveler&lt;/i&gt; (1979).\r
+\r
+His style is not easy to classify; much of his writing has an air reminiscent to that of fantastical fairy tales (&lt;i&gt;Our Ancestors, Cosmicomics&lt;/i&gt;), although sometimes his writing is more "realistic" and in the scenic mode of observation (&lt;i&gt;Difficult Loves&lt;/i&gt;, for example). Some of his writing has been called &lt;i&gt;postmodern&lt;/i&gt;, reflecting on literature and the act of reading, while some has been labeled magical realist, others fables, others simply "modern". He wrote: "&lt;i&gt;My working method has more often than not involved the subtraction of weight. I have tried to remove weight, sometimes from people, sometimes from heavenly bodies, sometimes from cities; above all I have tried to remove weight from the structure of stories and from language.&lt;/i&gt;"\r
+</about>
+        <uploader_user_id type="integer">18795516</uploader_user_id>
+        <image_copyright>http://images2.corriereobjects.it/methode_image/2015/09/17/Cultura/Foto%20Gallery/00%20calvino%20web_MGZOOM.jpg</image_copyright>
+        <influences>[a:Franz Kafka|5223], [a:Jorge Luis Borges|500], [a:Vladimir Nabokov|5152], [a:Marco Polo|9262], [a:Giacomo Leopardi|177775], [a:Galileo Galilei|14190], [a:Georges Perec|15923], [a:Sterne|22796], [a:Raymond Queneau|15957], [a:Edgar Allan Poe|4624490], [a:Isaac Babel|34055], [a:Ernest Hemingway|1455]</influences>
+        <url></url>
+        <genre1>Literature &amp; Fiction</genre1>
+        <genre2>Biographies &amp; Memoirs</genre2>
+        <genre3></genre3>
+        <books_count type="integer">2480</books_count>
+        <reviews_count type="integer">515128</reviews_count>
+        <ratings_sum type="integer">959866</ratings_sum>
+        <works_count type="integer">299</works_count>
+        <hometown>Santiago de Las Vegas</hometown>
+        <rating_dist>5:14548|4:13777|3:7862|2:1892|1:552|total:38631</rating_dist>
+        <s3_image_at type="datetime" nil="true"/>
+        <ratings_count type="integer">237877</ratings_count>
+        <text_reviews_count type="integer">16113</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">2563</fanships_count>
+        <best_book_id type="integer">374233</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>calvino, italo</sort_by_name>
+        <shelf_display_name>Calvino, Italo</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2721346318">Bury My Heart at Wounded Knee: An Indian History of the American West</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2786359050</link>
+      <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 03:05:32 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2786359050</id>
+  <review_id type="integer">2721346318</review_id>
+  <user_id type="integer">37957418</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2019-02-19T11:05:32+00:00</updated_at>
+  <review>
+    <id type="integer">2721346318</id>
+    <user_id type="integer">37957418</user_id>
+    <book_id type="integer">76401</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2019-02-19T11:05:38+00:00</updated_at>
+    <created_at type="datetime">2019-02-19T11:05:31+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">1240262</work_id>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2019-02-19T11:05:38+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <encrypted_notes nil="true"/>
+    <notes nil="true"/>
+    <book>
+      <id type="integer">76401</id>
+      <work_id type="integer">1240262</work_id>
+      <isbn>0805066691</isbn>
+      <isbn13>9780805066692</isbn13>
+      <title>Bury My Heart at Wounded Knee: An Indian History of the American West</title>
+      <sort_by_title>bury my heart at wounded knee: an indian history of the american west</sort_by_title>
+      <author_id type="integer">43443</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description nil="true"/>
+      <format>Paperback</format>
+      <publication_year type="integer">2001</publication_year>
+      <publication_month type="integer">1</publication_month>
+      <publication_day type="integer">23</publication_day>
+      <num_pages type="integer">509</num_pages>
+      <publisher>Henry Holt and Company, LLC</publisher>
+      <language_code>eng</language_code>
+      <edition_information>Thirtieth Anniversary Edition</edition_information>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2013-12-28T05:50:46+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-05-16T15:01:14+00:00</s3_image_at>
+      <reviews_count type="integer">123888</reviews_count>
+      <ratings_sum type="integer">197592</ratings_sum>
+      <ratings_count type="integer">46933</ratings_count>
+      <text_reviews_count type="integer">2262</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2018-05-09T02:19:15+00:00</updated_at>
+      <created_at type="datetime">2007-02-07T23:25:40+00:00</created_at>
+      <author_id_updater_user_id type="integer">1356784</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">1356784</author_role_updater_user_id>
+      <description_updater_user_id type="integer">7273096</description_updater_user_id>
+      <edition_information_updater_user_id type="integer">1024420</edition_information_updater_user_id>
+      <format_updater_user_id type="integer">-41</format_updater_user_id>
+      <image_updater_user_id type="integer">-9</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-41</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-41</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">66648866</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">1024420</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">-41</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">1024420</publisher_updater_user_id>
+      <title_updater_user_id type="integer">-41</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">43443</id>
+        <name>Dee Brown</name>
+        <updated_at type="datetime">2019-03-05T19:56:21+00:00</updated_at>
+        <created_at type="datetime">2007-02-07T23:25:40+00:00</created_at>
+        <searched_for_at type="datetime">2007-03-06T17:21:38+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2012-12-04T18:41:06+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>US</country_code>
+        <born_at type="date">1908-02-28</born_at>
+        <died_at type="date">2002-12-12</died_at>
+        <about>Dorris Alexander \xe2\x80\x9cDee\xe2\x80\x9d Brown (1908\xe2\x80\x932002) was a celebrated author of both fiction and nonfiction, whose classic study Bury My Heart at Wounded Knee is widely credited with exposing the systematic destruction of American Indian tribes to a world audience. Brown was born in Louisiana and grew up in Arkansas. He worked as a reporter and a printer before enrolling at Arkansas State Teachers College, where he met his future wife, Sally Stroud. He later earned two degrees in library science, and worked as a librarian while beginning his career as a writer. He went on to research and write more than thirty books, often centered on frontier history or overlooked moments of the Civil War. Brown continued writing until his death in 2002.   </about>
+        <uploader_user_id type="integer">3787065</uploader_user_id>
+        <image_copyright>http://www.openroadmedia.com/dee-brown</image_copyright>
+        <influences>[a:Sherwood Anderson|45645|Sherwood Anderson|http://d.gr-assets.com/authors/1206470009p2/45645.jpg], [a:John Dos Passos|4778|John Dos Passos|http://d.gr-assets.com/authors/1234455298p2/4778.jpg], [a:William Faulkner|3535|William Faulkner|http://d.gr-assets.com/authors/1189905090p2/3535.jpg], [a:Joseph Conrad|3345|Joseph Conrad|http://d.gr-assets.com/authors/1198538984p2/3345.jpg]</influences>
+        <url>http://www.openroadmedia.com/dee-brown</url>
+        <genre1>History</genre1>
+        <genre2>Literature &amp; Fiction</genre2>
+        <genre3>Nonfiction</genre3>
+        <books_count type="integer">391</books_count>
+        <reviews_count type="integer">149688</reviews_count>
+        <ratings_sum type="integer">230948</ratings_sum>
+        <works_count type="integer">53</works_count>
+        <hometown>Alberta, LA</hometown>
+        <rating_dist>5:2745|4:2458|3:1211|2:229|1:45|total:6688</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:08:09+00:00</s3_image_at>
+        <ratings_count type="integer">54874</ratings_count>
+        <text_reviews_count type="integer">3212</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">73</fanships_count>
+        <best_book_id type="integer">76401</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>brown, dee</sort_by_name>
+        <shelf_display_name>Brown, Dee</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2721345612">The Hero With a Thousand Faces</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2786358278</link>
+      <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 03:04:34 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2786358278</id>
+  <review_id type="integer">2721345612</review_id>
+  <user_id type="integer">37957418</user_id>
+  <old_status>read</old_status>
+  <status>to-read</status>
+  <updated_at type="datetime">2019-02-19T11:04:34+00:00</updated_at>
+  <review>
+    <id type="integer">2721345612</id>
+    <user_id type="integer">37957418</user_id>
+    <book_id type="integer">588138</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2019-02-19T11:04:46+00:00</updated_at>
+    <created_at type="datetime">2019-02-19T11:04:23+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">971054</work_id>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2019-02-19T11:04:46+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <encrypted_notes nil="true"/>
+    <notes nil="true"/>
+    <book>
+      <id type="integer">588138</id>
+      <work_id type="integer">971054</work_id>
+      <isbn>0691017840</isbn>
+      <isbn13>9780691017846</isbn13>
+      <title>The Hero With a Thousand Faces</title>
+      <sort_by_title>hero with a thousand faces, the</sort_by_title>
+      <author_id type="integer">20105</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description nil="true"/>
+      <format>Paperback</format>
+      <publication_year type="integer">1972</publication_year>
+      <publication_month type="integer">3</publication_month>
+      <publication_day type="integer">1</publication_day>
+      <num_pages type="integer">416</num_pages>
+      <publisher>Princeton University Press</publisher>
+      <language_code>eng</language_code>
+      <edition_information>2nd edition Bollingen Series XVII</edition_information>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2015-09-22T01:34:54+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-09-22T01:34:54+00:00</s3_image_at>
+      <reviews_count type="integer">74523</reviews_count>
+      <ratings_sum type="integer">89552</ratings_sum>
+      <ratings_count type="integer">21136</ratings_count>
+      <text_reviews_count type="integer">1207</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2017-12-10T23:21:19+00:00</updated_at>
+      <created_at type="datetime">2007-04-08T19:13:40+00:00</created_at>
+      <author_id_updater_user_id type="integer">-9</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">974210</author_role_updater_user_id>
+      <description_updater_user_id type="integer">66648866</description_updater_user_id>
+      <edition_information_updater_user_id type="integer">4559937</edition_information_updater_user_id>
+      <format_updater_user_id type="integer">-9</format_updater_user_id>
+      <image_updater_user_id type="integer">-9</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-9</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-9</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">4559937</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">1212912</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">4559937</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">4559937</publisher_updater_user_id>
+      <title_updater_user_id type="integer">4134979</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">20105</id>
+        <name>Joseph Campbell</name>
+        <updated_at type="datetime">2019-03-04T18:14:22+00:00</updated_at>
+        <created_at type="datetime">2007-01-12T11:35:02+00:00</created_at>
+        <searched_for_at type="datetime">2007-01-12T11:36:10+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2015-04-15T16:14:58+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>US</country_code>
+        <born_at type="date">1904-03-26</born_at>
+        <died_at type="date">1987-10-30</died_at>
+        <about>Joseph Campbell was an American author and teacher best known for his work in the field of comparative mythology. He was born in New York City in 1904, and from early childhood he became interested in mythology. He loved to read books about American Indian cultures, and frequently visited the American Museum of Natural History in New York, where he was fascinated by the museum\'s collection of totem poles. \r
+\r
+Campbell was educated at Columbia University, where he specialized in medieval literature, and continued his studies at universities in Paris and Munich. While abroad he was influenced by the art of Pablo Picasso and Henri Matisse, the novels of James Joyce and Thomas Mann, and the psychological studies of Sigmund Freud and Carl Jung. These encounters led to Campbell\'s theory that all myths and epics are linked in the human psyche, and that they are cultural manifestations of the universal need to explain social, cosmological, and spiritual realities. \xe2\x80\xa8\r
+\r
+After a period in California, where he encountered John Steinbeck and the biologist Ed Ricketts, he taught at the Canterbury School, and then, in 1934, joined the literature department at Sarah Lawrence College, a post he retained for many years. During the 40s and \'50s, he helped Swami Nikhilananda to translate the Upanishads and The Gospel of Sri Ramakrishna. He also edited works by the German scholar Heinrich Zimmer on Indian art, myths, and philosophy. In 1944, with Henry Morton Robinson, Campbell published A Skeleton Key to Finnegans Wake. His first original work, The Hero with a Thousand Faces, came out in 1949 and was immediately well received; in time, it became acclaimed as a classic. In this study of the "myth of the hero," Campbell asserted that there is a single pattern of heroic journey and that all cultures share this essential pattern in their various heroic myths. In his book he also outlined the basic conditions, stages, and results of the archetypal hero\'s journey.\xe2\x80\xa8\r
+\r
+Throughout his life, he traveled extensively and wrote prolifically, authoring many books, including the four-volume series The Masks of God, Myths to Live By, The Inner Reaches of Outer Space and The Historical Atlas of World Mythology. Joseph Campbell died in 1987. In 1988, a series of television interviews with Bill Moyers, The Power of Myth, introduced Campbell\'s views to millions of people.\xe2\x80\xa8\r
+</about>
+        <uploader_user_id type="integer">39230033</uploader_user_id>
+        <image_copyright>This photo is public domain.</image_copyright>
+        <influences>[a:James Frazer|1211478], [a:Carl Jung|38285], [a:Sigmund Freud|10017], [a:Leo Frobenius|389659], [a:Krishnamurti|850512], [a:Heinrich Zimmer|87711], [a:Stanislav Grof|16010], [a:Johann Bachofen|1086416], [a:Otto Rank|228940], [a:Thomas Mann|19405], [a:Schopenhauer|11682], [a:James Joyce|5144], [a:Abraham Maslow|4570807], [a:Adolf Bastian|3052358]</influences>
+        <url>http://jcf.org</url>
+        <genre1>Religion</genre1>
+        <genre2>Social Sciences</genre2>
+        <genre3>Mythology</genre3>
+        <books_count type="integer">732</books_count>
+        <reviews_count type="integer">497561</reviews_count>
+        <ratings_sum type="integer">946421</ratings_sum>
+        <works_count type="integer">198</works_count>
+        <hometown>White Plains, NY</hometown>
+        <rating_dist>5:7282|4:5243|3:2309|2:433|1:116|total:15383</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:01:34+00:00</s3_image_at>
+        <ratings_count type="integer">220155</ratings_count>
+        <text_reviews_count type="integer">5974</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">1333</fanships_count>
+        <best_book_id type="integer">35519</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>campbell, joseph</sort_by_name>
+        <shelf_display_name>Campbell, Joseph</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2721345241">Lezioni americane: Sei proposte per il prossimo millennio</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2786357658</link>
+      <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 03:03:46 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2786357658</id>
+  <review_id type="integer">2721345241</review_id>
+  <user_id type="integer">37957418</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2019-02-19T11:03:46+00:00</updated_at>
+  <review>
+    <id type="integer">2721345241</id>
+    <user_id type="integer">37957418</user_id>
+    <book_id type="integer">6109109</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2019-02-19T11:04:03+00:00</updated_at>
+    <created_at type="datetime">2019-02-19T11:03:45+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">2012</work_id>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2019-02-19T11:04:03+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <encrypted_notes nil="true"/>
+    <notes nil="true"/>
+    <book>
+      <id type="integer">6109109</id>
+      <work_id type="integer">2012</work_id>
+      <isbn>880448599X</isbn>
+      <isbn13>9788804485995</isbn13>
+      <title>Lezioni americane: Sei proposte per il prossimo millennio</title>
+      <sort_by_title>lezioni americane: sei proposte per il prossimo millennio</sort_by_title>
+      <author_id type="integer">155517</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>"La "Leggerezza", la "Rapidit\xc3\xa0", l\'"Esattezza", la "Visibilit\xc3\xa0", la "Molteplicit\xc3\xa0" dovrebbero in realt\xc3\xa0 informare non soltanto l\'attivit\xc3\xa0 degli scrittori ma ogni gesto della nostra troppo sciatta, svagata esistenza."\r
+(Dalla quarta di copertina di Gian Carlo Roscioni)</description>
+      <format>Paperback</format>
+      <publication_year type="integer">2002</publication_year>
+      <publication_month type="integer">7</publication_month>
+      <publication_day type="integer">1</publication_day>
+      <num_pages type="integer">161</num_pages>
+      <publisher>A. Mondadori</publisher>
+      <language_code>ita</language_code>
+      <edition_information>Opere di Italo Calvino</edition_information>
+      <url nil="true"/>
+      <source_url>Owns physical book</source_url>
+      <image_uploaded_at type="datetime">2012-11-24T20:23:19+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-06-15T22:43:32+00:00</s3_image_at>
+      <reviews_count type="integer">1676</reviews_count>
+      <ratings_sum type="integer">2771</ratings_sum>
+      <ratings_count type="integer">660</ratings_count>
+      <text_reviews_count type="integer">51</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2017-10-26T21:34:13+00:00</updated_at>
+      <created_at type="datetime">2009-01-18T15:33:40+00:00</created_at>
+      <author_id_updater_user_id type="integer">5868588</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">4547740</author_role_updater_user_id>
+      <description_updater_user_id type="integer">4570210</description_updater_user_id>
+      <edition_information_updater_user_id type="integer">4540522</edition_information_updater_user_id>
+      <format_updater_user_id type="integer">5868588</format_updater_user_id>
+      <image_updater_user_id type="integer">9935023</image_updater_user_id>
+      <isbn_updater_user_id type="integer">5868588</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">5868588</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">4547740</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">4540522</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">5973245</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">4570210</publisher_updater_user_id>
+      <title_updater_user_id type="integer">4570210</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">155517</id>
+        <name>Italo Calvino</name>
+        <updated_at type="datetime">2019-03-06T09:26:20+00:00</updated_at>
+        <created_at type="datetime">2007-03-07T13:54:30+00:00</created_at>
+        <searched_for_at type="datetime">2007-03-12T05:05:45+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2017-08-05T23:24:21+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>CU</country_code>
+        <born_at type="date">1923-10-15</born_at>
+        <died_at type="date">1985-09-19</died_at>
+        <about>Italo Calvino was born in Cuba and grew up in Italy. He was a journalist and writer of short stories and novels. His best known works include the &lt;i&gt;Our Ancestors&lt;/i&gt; trilogy (1952-1959), the &lt;i&gt;Cosmicomics&lt;/i&gt; collection of short stories (1965), and the novels &lt;i&gt;Invisible Cities&lt;/i&gt; (1972) and &lt;i&gt;If On a Winter\'s Night a Traveler&lt;/i&gt; (1979).\r
+\r
+His style is not easy to classify; much of his writing has an air reminiscent to that of fantastical fairy tales (&lt;i&gt;Our Ancestors, Cosmicomics&lt;/i&gt;), although sometimes his writing is more "realistic" and in the scenic mode of observation (&lt;i&gt;Difficult Loves&lt;/i&gt;, for example). Some of his writing has been called &lt;i&gt;postmodern&lt;/i&gt;, reflecting on literature and the act of reading, while some has been labeled magical realist, others fables, others simply "modern". He wrote: "&lt;i&gt;My working method has more often than not involved the subtraction of weight. I have tried to remove weight, sometimes from people, sometimes from heavenly bodies, sometimes from cities; above all I have tried to remove weight from the structure of stories and from language.&lt;/i&gt;"\r
+</about>
+        <uploader_user_id type="integer">18795516</uploader_user_id>
+        <image_copyright>http://images2.corriereobjects.it/methode_image/2015/09/17/Cultura/Foto%20Gallery/00%20calvino%20web_MGZOOM.jpg</image_copyright>
+        <influences>[a:Franz Kafka|5223], [a:Jorge Luis Borges|500], [a:Vladimir Nabokov|5152], [a:Marco Polo|9262], [a:Giacomo Leopardi|177775], [a:Galileo Galilei|14190], [a:Georges Perec|15923], [a:Sterne|22796], [a:Raymond Queneau|15957], [a:Edgar Allan Poe|4624490], [a:Isaac Babel|34055], [a:Ernest Hemingway|1455]</influences>
+        <url></url>
+        <genre1>Literature &amp; Fiction</genre1>
+        <genre2>Biographies &amp; Memoirs</genre2>
+        <genre3></genre3>
+        <books_count type="integer">2480</books_count>
+        <reviews_count type="integer">515128</reviews_count>
+        <ratings_sum type="integer">959866</ratings_sum>
+        <works_count type="integer">299</works_count>
+        <hometown>Santiago de Las Vegas</hometown>
+        <rating_dist>5:14548|4:13777|3:7862|2:1892|1:552|total:38631</rating_dist>
+        <s3_image_at type="datetime" nil="true"/>
+        <ratings_count type="integer">237877</ratings_count>
+        <text_reviews_count type="integer">16113</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">2563</fanships_count>
+        <best_book_id type="integer">374233</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>calvino, italo</sort_by_name>
+        <shelf_display_name>Calvino, Italo</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2721345033">Evicted: Poverty and Profit in the American City</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2786357383</link>
+      <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 03:03:23 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2786357383</id>
+  <review_id type="integer">2721345033</review_id>
+  <user_id type="integer">37957418</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2019-02-19T11:03:23+00:00</updated_at>
+  <review>
+    <id type="integer">2721345033</id>
+    <user_id type="integer">37957418</user_id>
+    <book_id type="integer">25852784</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2019-02-19T11:03:30+00:00</updated_at>
+    <created_at type="datetime">2019-02-19T11:03:22+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">45720714</work_id>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2019-02-19T11:03:30+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <encrypted_notes nil="true"/>
+    <notes nil="true"/>
+    <book>
+      <id type="integer">25852784</id>
+      <work_id type="integer">45720714</work_id>
+      <isbn>0553447432</isbn>
+      <isbn13>9780553447439</isbn13>
+      <title>Evicted: Poverty and Profit in the American City</title>
+      <sort_by_title>evicted: poverty and profit in the american city</sort_by_title>
+      <author_id type="integer">915500</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description nil="true"/>
+      <format>Hardcover</format>
+      <publication_year type="integer">2016</publication_year>
+      <publication_month type="integer">3</publication_month>
+      <publication_day type="integer">1</publication_day>
+      <num_pages type="integer">418</num_pages>
+      <publisher>Crown</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2016-01-17T19:58:30+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2016-01-17T19:58:31+00:00</s3_image_at>
+      <reviews_count type="integer">123326</reviews_count>
+      <ratings_sum type="integer">159024</ratings_sum>
+      <ratings_count type="integer">35476</ratings_count>
+      <text_reviews_count type="integer">5503</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2017-12-17T08:58:48+00:00</updated_at>
+      <created_at type="datetime">2015-07-05T11:52:44+00:00</created_at>
+      <author_id_updater_user_id type="integer">-50</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">-9</author_role_updater_user_id>
+      <description_updater_user_id type="integer">66648866</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">-50</format_updater_user_id>
+      <image_updater_user_id type="integer">-51</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-50</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">607804</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">5229326</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">-50</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">-50</publisher_updater_user_id>
+      <title_updater_user_id type="integer">-50</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">915500</id>
+        <name>Matthew Desmond</name>
+        <updated_at type="datetime">2019-03-04T18:34:45+00:00</updated_at>
+        <created_at type="datetime">2007-10-09T07:35:16+00:00</created_at>
+        <searched_for_at type="datetime">2007-11-27T19:23:52+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2015-11-21T01:47:17+00:00</image_uploaded_at>
+        <user_id type="integer">49173130</user_id>
+        <gender>M</gender>
+        <country_code>US</country_code>
+        <born_at type="date">1980-02-04</born_at>
+        <died_at type="datetime" nil="true"/>
+        <about>Matthew Desmond is an American sociologist and urban ethnographer. He is currently the John L. Loeb Associate Professor of the Social Sciences at Harvard University and Co-Director of the Justice and Poverty Project. The author of several books, including the award-winning book, "On the Fireline," and "Evicted: Poverty and Profit in the American City," Desmond was awarded a MacArthur "Genius" grant in 2015 for his work on poverty in America.</about>
+        <uploader_user_id type="integer">49173130</uploader_user_id>
+        <image_copyright>Photo by Michael Kienitz</image_copyright>
+        <influences></influences>
+        <url>http://scholar.harvard.edu/mdesmond/home</url>
+        <genre1>Non-fiction</genre1>
+        <genre2>Contemporary</genre2>
+        <genre3></genre3>
+        <books_count type="integer">46</books_count>
+        <reviews_count type="integer">140070</reviews_count>
+        <ratings_sum type="integer">187861</ratings_sum>
+        <works_count type="integer">7</works_count>
+        <hometown>San Jose, CA</hometown>
+        <rating_dist>5:2|4:3|3:1|2:0|1:0|total:6</rating_dist>
+        <s3_image_at type="datetime" nil="true"/>
+        <ratings_count type="integer">41894</ratings_count>
+        <text_reviews_count type="integer">6247</text_reviews_count>
+        <author_program_at type="datetime">2015-11-20T09:36:00+00:00</author_program_at>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">1</fanships_count>
+        <best_book_id type="integer">25852784</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>desmond, matthew</sort_by_name>
+        <shelf_display_name>Desmond, Matthew</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2721344715">La matematica del Novecento</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2786356984</link>
+      <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+        <actor>
+  <id type="integer">37957418</id>
+  <name>Angian</name>
+  <image_url>https://images.gr-assets.com/users/1515854127p2/37957418.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/37957418-angian</link>
+</actor>
+      <updated_at>Tue, 19 Feb 2019 03:02:52 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2786356984</id>
+  <review_id type="integer">2721344715</review_id>
+  <user_id type="integer">37957418</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2019-02-19T11:02:52+00:00</updated_at>
+  <review>
+    <id type="integer">2721344715</id>
+    <user_id type="integer">37957418</user_id>
+    <book_id type="integer">5989340</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2019-02-19T11:03:00+00:00</updated_at>
+    <created_at type="datetime">2019-02-19T11:02:51+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">6163351</work_id>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2019-02-19T11:03:00+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <encrypted_notes nil="true"/>
+    <notes nil="true"/>
+    <book>
+      <id type="integer">5989340</id>
+      <work_id type="integer">6163351</work_id>
+      <isbn>8806151533</isbn>
+      <isbn13>9788806151539</isbn13>
+      <title>La matematica del Novecento</title>
+      <sort_by_title>matematica del novecento, la</sort_by_title>
+      <author_id type="integer">326071</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>Il Novecento \xc3\xa8 stato il secolo della matematica: in soli cent\'anni si sono dimostrati pi\xc3\xb9 teoremi che nell\'intero corso della storia, e molti di essi hanno trovato applicazione nei campi pi\xc3\xb9 svariati della scienza e perfino nell\'umanesimo. "La matematica del Novecento" ricostruisce in una forma il pi\xc3\xb9 possibile facile e discorsiva la straordinaria vicenda di una disciplina spesso vissuta come astrusa e distante dalla vita quotidiana, descrivendone le idee, i risultati, i principali protagonisti, i problemi ancora irrisolti. Scorrono cos\xc3\xac di fronte agli occhi del lettore le imprese di alcuni giganti del secolo, da Einstein a G\xc3\xb6del. Si narrano le soluzioni di alcuni dilemmi, dal teorema di Fermat all\'ipotesi del continuo. Si rivedono in luce moderna le teorie classiche, dall\'aritmetica alla geometria. Si assiste alla nascita di nuovi strumenti, dal calcolo tensoriale alla teoria dei giochi. Si incontrano oggetti insoliti, dai nodi agli attrattori strani. Si scoprono applicazioni nei campi pi\xc3\xb9 svariati, dalla cristallografia all\'economia. Si allestiscono le maggiori sfide del nuovo secolo, dall\'ipotesi di Riemann alla congettura di Poincar\xc3\xa9... In breve, ci si familiarizza con il linguaggio del terzo millennio, senza il quale non sar\xc3\xa0 possibile comprendere n\xc3\xa9 la scienza n\xc3\xa9 la tecnologia futura.</description>
+      <format>Paperback</format>
+      <publication_year type="integer">2000</publication_year>
+      <publication_month type="integer" nil="true"/>
+      <publication_day type="integer" nil="true"/>
+      <num_pages type="integer">193</num_pages>
+      <publisher>Einaudi</publisher>
+      <language_code>ita</language_code>
+      <edition_information>Piccola Biblioteca Einaudi Scienza PBE 48</edition_information>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2011-09-12T15:53:01+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-06-15T22:41:38+00:00</s3_image_at>
+      <reviews_count type="integer">84</reviews_count>
+      <ratings_sum type="integer">83</ratings_sum>
+      <ratings_count type="integer">24</ratings_count>
+      <text_reviews_count type="integer">2</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2016-08-05T09:02:30+00:00</updated_at>
+      <created_at type="datetime">2008-12-11T19:25:20+00:00</created_at>
+      <author_id_updater_user_id type="integer">-102</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">6266990</author_role_updater_user_id>
+      <description_updater_user_id type="integer">4540522</description_updater_user_id>
+      <edition_information_updater_user_id type="integer">4540522</edition_information_updater_user_id>
+      <format_updater_user_id type="integer">4540522</format_updater_user_id>
+      <image_updater_user_id type="integer">6266990</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-112</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-112</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">4540522</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">-112</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">6266990</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">4540522</publisher_updater_user_id>
+      <title_updater_user_id type="integer">4540522</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">326071</id>
+        <name>Piergiorgio Odifreddi</name>
+        <updated_at type="datetime">2019-02-19T09:39:15+00:00</updated_at>
+        <created_at type="datetime">2007-04-10T00:29:07+00:00</created_at>
+        <searched_for_at type="datetime">2007-05-18T14:25:32+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2012-06-13T23:19:01+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>IT</country_code>
+        <born_at type="date">1950-07-13</born_at>
+        <died_at type="datetime" nil="true"/>
+        <about>Piergiorgio Odifreddi is an Italian mathematician, logician and aficionado of the history of science, who is also extremely active as a popular science writer and essayist, especially in a perspective of philosophical atheism as a member of the Italian Union of Rationalist Atheists and Agnostics.</about>
+        <uploader_user_id type="integer">7924001</uploader_user_id>
+        <image_copyright>GNU licence</image_copyright>
+        <influences>[a:Bertrand Russell|17854|Bertrand Russell|http://photo.goodreads.com/authors/1264533050p2/17854.jpg], [a:Noam Chomsky|2476|Noam Chomsky|http://photo.goodreads.com/authors/1206713478p2/2476.jpg]</influences>
+        <url>http://www.piergiorgioodifreddi.it/</url>
+        <genre1>Science</genre1>
+        <genre2>Philosophy</genre2>
+        <genre3></genre3>
+        <books_count type="integer">165</books_count>
+        <reviews_count type="integer">5275</reviews_count>
+        <ratings_sum type="integer">7561</ratings_sum>
+        <works_count type="integer">80</works_count>
+        <hometown>Cuneo</hometown>
+        <rating_dist>5:16|4:45|3:40|2:9|1:1|total:111</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:36:29+00:00</s3_image_at>
+        <ratings_count type="integer">2134</ratings_count>
+        <text_reviews_count type="integer">210</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">27</fanships_count>
+        <best_book_id type="integer">6071926</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>odifreddi, piergiorgio</sort_by_name>
+        <shelf_display_name>Odifreddi, Piergiorgio</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+</updates>
+    <user_statuses>
+    </user_statuses>
+</user>

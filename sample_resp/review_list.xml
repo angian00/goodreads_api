@@ -1,0 +1,3071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[uQqQgYMhGYyUNkfGFtAuIA]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='123557012' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="40" total="554">
+    <review>
+  <id>2730926403</id>
+    <book>
+  <id type="integer">43841689</id>
+  <isbn>8806236245</isbn>
+  <isbn13>9788806236243</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ji18eI8932wrsQUMa1BLtA</uri>
+  <title>Enigmi: I migliori rompicapi logici e matematici di tutti i tempi</title>
+  <title_without_series>Enigmi: I migliori rompicapi logici e matematici di tutti i tempi</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1549364339m/43841689.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1549364339s/43841689.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43841689-enigmi</link>
+  <num_pages>296</num_pages>
+  <format>Paperback</format>
+  <edition_information>Stile Libero Extra</edition_information>
+  <publisher>Einaudi</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>152</ratings_count>
+  <description>Fin dall\xe2\x80\x99antichit\xc3\xa0 rompicapi e indovinelli ci hanno aiutato a imparare la matematica e la logica e, allo stesso tempo, divertito. Probabilmente lo stesso Carlo Magno ha appreso i rudimenti dell\xe2\x80\x99aritmetica grazie a una raccolta di giochi scritta dal grande erudito Alcuino. E prima di lui, Euclide ha fondato la geometria usando una serie di veri e propri rompicapi. Un enigma alla volta, partendo dall\xe2\x80\x99Europa del Medioevo per arrivare ai grattacieli della Singapore odierna, passando per il Giappone dei maestri zen e l\xe2\x80\x99Inghilterra vittoriana, Alex Bellos ci conduce in un affascinante viaggio attraverso i migliori giochi matematici e logici di tutti i tempi. Per raccontare la loro storia, spiegarci come funzionano, mostrarci perch\xc3\xa9 ci appassionano, e gettare uno sguardo insolito sulle culture, all\xe2\x80\x99apparenza cos\xc3\xad diverse, che li hanno generati.</description>
+<authors>
+<author>
+<id>398989</id>
+<name>Alex Bellos</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343975269p5/398989.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343975269p2/398989.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/398989.Alex_Bellos]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>6209</ratings_count>
+<text_reviews_count>653</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>53080346</id>
+  <uri>kca://work/amzn1.gr.work.v1.mEmEfNhA7hDO6yuiuDOCQQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 26 12:50:13 -0800 2019</date_added>
+  <date_updated>Tue Feb 26 12:50:31 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2730926403]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2730926403]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2721342663</id>
+    <book>
+  <id type="integer">9718342</id>
+  <isbn>8845251411</isbn>
+  <isbn13>9788845251412</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oqI3J5W5MCA9YDfUfVkFbw</uri>
+  <title>L'Islam spiegato ai nostri figli</title>
+  <title_without_series>L'Islam spiegato ai nostri figli</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1336917127m/9718342.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1336917127s/9718342.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9718342-l-islam-spiegato-ai-nostri-figli</link>
+  <num_pages>99</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bompiani</publisher>
+  <publication_day/>
+  <publication_year>2001</publication_year>
+  <publication_month/>
+  <average_rating>3.54</average_rating>
+  <ratings_count>373</ratings_count>
+  <description>L'11 settembre 2001 il mondo occidentale viene colpito: due aerei crollano sulle torri gemelle a Manhattan, l'America \xc3\xa8 sconvolta, la paura di altri attacchi terroristici si diffonde, ogni arabo diventa sospetto. E' su tale scenario che nasce questa conversazione tra Tahar Ben Jelloun e sua figlia - dieci anni - a disagio con se stessa, con le proprie origini musulmane, di fronte a una televisione che continua a dire "che i musulmani sono tutti cattivi". Ben Jelloun spiega, con semplicit\xc3\xa0 ma rifuggendo ogni semplificazione, cos'\xc3\xa8 l'Islam, qual \xc3\xa8 la differenza tra arabo e musulmano, cos'\xc3\xa8 il fanatismo, cos'\xc3\xa8 il terrorismo, quale spazio ha la tolleranza nel mondo arabo, quali lezioni ha dato all'Occidente.</description>
+<authors>
+<author>
+<id>5716305</id>
+<name>Tahar Ben Jelloun</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1508017324p5/5716305.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1508017324p2/5716305.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5716305.Tahar_Ben_Jelloun]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>21373</ratings_count>
+<text_reviews_count>3666</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>842372</id>
+  <uri>kca://work/amzn1.gr.work.v1.tybOOQQZ7CMYO4h2qmuNnw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='304835403' name='religion' review_shelf_id='2365846493' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 19 02:58:57 -0800 2019</date_added>
+  <date_updated>Tue Feb 19 12:17:55 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2721342663]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2721342663]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2716640833</id>
+    <book>
+  <id type="integer">470644</id>
+  <isbn>0313207690</isbn>
+  <isbn13>9780313207693</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RuyZx7WRiPpvLBh_ZC87vg</uri>
+  <title>A Short History of Chemistry</title>
+  <title_without_series>A Short History of Chemistry</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1393006381m/470644.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1393006381s/470644.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/470644.A_Short_History_of_Chemistry</link>
+  <num_pages>263</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Greenwood Press (London)</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>1979</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>393</ratings_count>
+  <description>From the use of metals by prehistoric man to the alchemical experiments of medieval and renaissance man to the complex chemical skills of contemporary man, Asimov traces the development of this building block of our technological world.</description>
+<authors>
+<author>
+<id>16667</id>
+<name>Isaac Asimov</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1341965730p5/16667.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1341965730p2/16667.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>1729483</ratings_count>
+<text_reviews_count>47154</text_reviews_count>
+</author>
+</authors>
+  <published>1979</published>
+<work>  <id>458948</id>
+  <uri>kca://work/amzn1.gr.work.v1.uCKpNmmMoEcImYT6But7jQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='304835069' name='science' review_shelf_id='2365923624' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Feb 15 11:40:31 -0800 2019</date_added>
+  <date_updated>Tue Feb 19 04:57:41 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2716640833]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2716640833]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2703707408</id>
+    <book>
+  <id type="integer">60106</id>
+  <isbn>0099430878</isbn>
+  <isbn13>9780099430872</isbn13>
+  <text_reviews_count type="integer">167</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eyFAy1Fw3zcn5jtMv2cbJw</uri>
+  <title>Mr Palomar</title>
+  <title_without_series>Mr Palomar</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1360576065m/60106.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1360576065s/60106.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/60106.Mr_Palomar</link>
+  <num_pages>128</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage Classics</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>4727</ratings_count>
+  <description>Mr Palomar is a delightful eccentric whose chief activity is looking at things. He is simply seeking knowledge; 'it is only after you have come to know the surface of things that you can venture to seek what is underneath'. Whether contemplating a fine cheese, a hungry gecko, a woman sunbathing topless or a flight of migrant starlings, Mr Palomar's observations render the world afresh.</description>
+<authors>
+<author>
+<id>155517</id>
+<name>Italo Calvino</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501975461p5/155517.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501975461p2/155517.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/155517.Italo_Calvino]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>237877</ratings_count>
+<text_reviews_count>16113</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>2678548</id>
+  <uri>kca://work/amzn1.gr.work.v1.mB6G5j5yLsk_XRh4CnnUKg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 05 08:21:09 -0800 2019</date_added>
+  <date_updated>Tue Feb 05 08:21:10 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2703707408]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2703707408]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2703682896</id>
+    <book>
+  <id type="integer">43624168</id>
+  <isbn nil="true"/>
+  <isbn13>9788875787554</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UOJk6RSC8IQZLLsYp8b-3A</uri>
+  <title>Numeralia</title>
+  <title_without_series>Numeralia</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1548001108m/43624168.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1548001108s/43624168.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43624168-numeralia</link>
+  <num_pages>206</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Codice Edizioni</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>3</ratings_count>
+  <description>A volte ci sentiamo assediati dai numeri. Sembrano spuntare da tutte le parti e non darci tregua, rievocando forse terribili ricordi scolastici. Ma proprio a causa della loro ubiquit\xc3\xa0, i numeri hanno una loro vita anche al di fuori della matematica: possono diventare il punto di partenza per vedere letteratura, arte e in generale il mondo con occhi diversi e - perch\xc3\xa9 no? - ritornare alla matematica per una via pi\xc3\xb9 divertente. "Numeralia" spiega perch\xc3\xa9 Dante parla del 515 e Guareschi del 23; racconta di come i 99 "Esercizi di stile" di Queneau e "Le mille e una notte" siano due facce della stessa medaglia. Parla della Risposta con la R maiuscola e delle canzonette, di Paperino, Topolino e della Banda Bassotti, di numeri enormi come un googol e piccoli come lo zero, che in questa grande famiglia \xc3\xa8 lo zio un po' matto.</description>
+<authors>
+<author>
+<id>4463763</id>
+<name>Maurizio Codogno</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289934100p5/4463763.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289934100p2/4463763.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4463763.Maurizio_Codogno]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>131</ratings_count>
+<text_reviews_count>37</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>67888335</id>
+  <uri>kca://work/amzn1.gr.work.v1.R8NMIBsg1DM2upc93crIdA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='304835069' name='science' review_shelf_id='2365923622' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 05 08:02:56 -0800 2019</date_added>
+  <date_updated>Tue Feb 19 04:57:41 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2703682896]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2703682896]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2699552528</id>
+    <book>
+  <id type="integer">275984</id>
+  <isbn>8817131628</isbn>
+  <isbn13>9788817131629</isbn13>
+  <text_reviews_count type="integer">97</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6eNj0K4VTierHoBWZSw3Rg</uri>
+  <title>Il gabbiano Jonathan Livingston</title>
+  <title_without_series>Il gabbiano Jonathan Livingston</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/275984.Il_gabbiano_Jonathan_Livingston</link>
+  <num_pages>102</num_pages>
+  <format>Paperback</format>
+  <edition_information>BUR. #162</edition_information>
+  <publisher>Rizzoli</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>1977</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>171498</ratings_count>
+  <description>Jonathan Livingston \xc3\xa8 un gabbiano che abbandona la massa dei comuni gabbiani per i quali volare non \xc3\xa8 che un semplice e goffo mezzo per procurarsi il cibo e impara a eseguire il volo come atto di perizia e intelligenza, fonte di perfezione e di gioia. Diventa cos\xc3\xac un simbolo, la guida ideale di chi ha la forza di ubbidire alla propria legge interiore quando sa di essere nel giusto, nonostante i pregiudizi degli altri; di chi prova un piacere particolare nel far bene le cose a cui si dedica: una specie di \xc2\xabguru\xc2\xbb istintivo e alla mano ma non per questo meno efficace nel suo insegnamento. E con Jonathan il lettore, affascinato dall'insolito clima della narrazione, viene trascinato in una entusiasmante avventura di volo, di aria pura, di libert\xc3\xa0.&lt;br /&gt;&lt;br /&gt;Copertina di Joan Stoliar</description>
+<authors>
+<author>
+<id>16904</id>
+<name>Richard Bach</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1420982726p5/16904.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1420982726p2/16904.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16904.Richard_Bach]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>261616</ratings_count>
+<text_reviews_count>10150</text_reviews_count>
+</author>
+</authors>
+  <published>1977</published>
+<work>  <id>1743336</id>
+  <uri>kca://work/amzn1.gr.work.v1.duv_u63Ft-KHWWxiEkqhEQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 02 07:35:51 -0800 2019</date_added>
+  <date_updated>Sat Feb 02 07:36:03 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699552528]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699552528]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698751726</id>
+    <book>
+  <id type="integer">72579</id>
+  <isbn>0385475713</isbn>
+  <isbn13>9780385475716</isbn13>
+  <text_reviews_count type="integer">1599</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NRdcORAwLVUkLWMJ0B3CbQ</uri>
+  <title>Alias Grace</title>
+  <title_without_series>Alias Grace</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1298545436m/72579.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1298545436s/72579.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/72579.Alias_Grace</link>
+  <num_pages>468</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Doubleday Nan A. Talese</publisher>
+  <publication_day/>
+  <publication_year>1996</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>88937</ratings_count>
+  <description>It's 1843, and Grace Marks has been convicted for her involvement in the vicious murders of her employer and his housekeeper and mistress. Some believe Grace is innocent; others think her evil or insane. Now serving a life sentence, Grace claims to have no memory of the murders.&lt;br /&gt;&lt;br /&gt;An up-and-coming expert in the burgeoning field of mental illness is engaged by a group of reformers and spiritualists who seek a pardon for Grace. He listens to her story while bringing her closer and closer to the day she cannot remember. What will he find in attempting to unlock her memories?&lt;br /&gt;&lt;br /&gt;Captivating and disturbing, &lt;i&gt;Alias Grace&lt;/i&gt; showcases best-selling, Booker Prize-winning author Margaret Atwood at the peak of her powers.</description>
+<authors>
+<author>
+<id>3472</id>
+<name>Margaret Atwood</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1282859073p5/3472.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1282859073p2/3472.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3472.Margaret_Atwood]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>1964064</ratings_count>
+<text_reviews_count>124511</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>2069530</id>
+  <uri>kca://work/amzn1.gr.work.v1.TwC8IvJ-pYsbJD3uAzHyjQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Feb 01 00:00:00 -0800 2019</read_at>
+  <date_added>Fri Feb 01 14:52:31 -0800 2019</date_added>
+  <date_updated>Tue Feb 19 12:18:48 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698751726]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698751726]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2692960566</id>
+    <book>
+  <id type="integer">1558486</id>
+  <isbn>8845226573</isbn>
+  <isbn13>9788845226571</isbn13>
+  <text_reviews_count type="integer">114</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EEXwxc9XQ995vtZHWzrtmQ</uri>
+  <title>L'Alchimista</title>
+  <title_without_series>L'Alchimista</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1539505693m/1558486.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1539505693s/1558486.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1558486.L_Alchimista</link>
+  <num_pages>182</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Bompiani</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>1710594</ratings_count>
+  <description>&lt;i&gt;L\xe2\x80\x99Alchimista&lt;/i&gt; \xc3\xa8 la storia di una iniziazione. Ne \xc3\xa8 protagonista Santiago, un giovane pastorello andaluso il quale, alla ricerca di un tesoro sognato, intraprende quel viaggio avventuroso, insieme reale e simbolico, che al di l\xc3\xa0 dello Stretto di Gibilterra e attraverso tutto il deserto nordafricano lo porter\xc3\xa0 fino all\xe2\x80\x99Egitto delle Piramidi. Il miraggio, qui, non \xc3\xa8 pi\xc3\xb9 solo la mitica Pietra Filosofale dell\xe2\x80\x99Alchimia, ma il raggiungimento di una concordanza totale con il mondo, grazie alla comprensione di quei \xe2\x80\x9csegni\xe2\x80\x9d, di quei segreti che \xc3\xa8 possibile captare solo riscoprendo un Linguaggio Universale fatto di coraggio, di fiducia e di saggezza che da tempo gli uomini hanno dimenticato.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>2632630</ratings_count>
+<text_reviews_count>117787</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>4835472</id>
+  <uri>kca://work/amzn1.gr.work.v1.syCV9OwBbsfTJL-UYgBmwg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 28 11:43:55 -0800 2019</date_added>
+  <date_updated>Mon Jan 28 11:44:12 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2692960566]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2692960566]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2682247147</id>
+    <book>
+  <id type="integer">394535</id>
+  <isbn>0679728759</isbn>
+  <isbn13>9780679728757</isbn13>
+  <text_reviews_count type="integer">7008</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Yr5zTbGSHPK4hjl0EhuKzQ</uri>
+  <title>Blood Meridian, or the Evening Redness in the West</title>
+  <title_without_series>Blood Meridian, or the Evening Redness in the West</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1453995760m/394535.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1453995760s/394535.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West</link>
+  <num_pages>337</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage Books</publisher>
+  <publication_day/>
+  <publication_year>1992</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>92610</ratings_count>
+  <description>An epic novel of the violence and depravity that attended America's westward expansion, &lt;b&gt;Blood Meridian &lt;/b&gt;brilliantly subverts the conventions of the Western novel and the mythology of the "wild west." Based on historical events that took place on the Texas-Mexico border in the 1850s, it traces the fortunes of the Kid, a fourteen-year-old Tennesseean who stumbles into the nightmarish world where Indians are being murdered and the market for their scalps is thriving.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Publisher's Note:&lt;/b&gt; The 25th Anniversary Edition has been reset, causing the text to reflow. Page references based on earlier editions will no longer apply, so Vintage Books has compiled the following chart as a conversion aid. Download the chart by copying and pasting the following link into your browser:&lt;br /&gt;&lt;a target="_blank" href="http://knopfdoubleday.com/marketing/BloodMeridianPageReference.pdf" rel="nofollow"&gt;http://knopfdoubleday.com/marketing/B...&lt;/a&gt;</description>
+<authors>
+<author>
+<id>4178</id>
+<name>Cormac McCarthy</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414695980p5/4178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414695980p2/4178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4178.Cormac_McCarthy]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>1051834</ratings_count>
+<text_reviews_count>72043</text_reviews_count>
+</author>
+</authors>
+  <published>1992</published>
+<work>  <id>1065465</id>
+  <uri>kca://work/amzn1.gr.work.v1.9H9kQwFhTY57sfMRHouaMA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 20 13:10:49 -0800 2019</date_added>
+  <date_updated>Sun Jan 20 13:11:00 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2682247147]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2682247147]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2660844019</id>
+    <book>
+  <id type="integer">832008</id>
+  <isbn>0231110952</isbn>
+  <isbn13>9780231110952</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9cojKB530PTkyMq7RmkbMQ</uri>
+  <title>Pre-Code Hollywood: Sex, Immorality, and Insurrection in American Cinema; 1930-1934</title>
+  <title_without_series>Pre-Code Hollywood: Sex, Immorality, and Insurrection in American Cinema; 1930-1934</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/832008.Pre_Code_Hollywood</link>
+  <num_pages>430</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Columbia University Press</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>175</ratings_count>
+  <description>&lt;i&gt;Pre-Code Hollywood&lt;/i&gt; explores the fascinating period in American motion picture history from 1930 to 1934 when the commandments of the Production Code Administration were violated with impunity in a series of wildly unconventional films--a time when censorship was lax and Hollywood made the most of it. Though more unbridled, salacious, subversive, and just plain bizarre than what came afterwards, the films of the period do indeed have the look of Hollywood cinema--but the moral terrain is so off-kilter that they seem imported from a parallel universe.&lt;br /&gt;&lt;br /&gt;In a sense, Doherty avers, the films of pre-Code Hollywood &lt;i&gt;are&lt;/i&gt; from another universe. They lay bare what Hollywood under the Production Code attempted to cover up and push offscreen: sexual liaisons unsanctified by the laws of God or man, marriage ridiculed and redefined, ethnic lines crossed and racial barriers ignored, economic injustice exposed and political corruption assumed, vice unpunished and virtue unrewarded--in sum, pretty much the raw stuff of American culture, unvarnished and unveiled.&lt;br /&gt;&lt;br /&gt;No other book has yet sought to interpret the films and film-related meanings of the pre-Code era--what defined the period, why it ended, and what its relationship was to the country as a whole during the darkest years of the Great Depression... and afterward.</description>
+<authors>
+<author>
+<id>354875</id>
+<name>Thomas Doherty</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/354875.Thomas_Doherty]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>497</ratings_count>
+<text_reviews_count>68</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>817658</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZHBKinH3CmRgrqDTfJ8slQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 06 07:46:21 -0800 2019</date_added>
+  <date_updated>Sun Jan 06 07:46:33 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2660844019]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2660844019]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2645901162</id>
+    <book>
+  <id type="integer">37781</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9731</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.T3b06-IOoenYlb-51z19Ew</uri>
+  <title>Things Fall Apart</title>
+  <title_without_series>Things Fall Apart</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1352082529m/37781.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1352082529s/37781.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37781.Things_Fall_Apart</link>
+  <num_pages>209</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Anchor Books Edition (U.S.)</edition_information>
+  <publisher>Anchor Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.64</average_rating>
+  <ratings_count>247250</ratings_count>
+  <description>More than two million copies of Things Fall Apart have been sold in the United States since it was first published here in 1959. Worldwide, there are eight million copies in print in fifty different languages. This is Chinua Achebe's masterpiece and it is often compared to the great Greek tragedies, and currently sells more than one hundred thousand copies a year in the United States.&lt;br /&gt;&lt;br /&gt;A simple story of a "strong man" whose life is dominated by fear and anger, Things Fall Apart is written with remarkable economy and subtle irony. Uniquely and richly African, at the same time it reveals Achebe's keen awareness of the human qualities common to men of all times and places.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>8051</id>
+<name>Chinua Achebe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1473806077p5/8051.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1473806077p2/8051.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8051.Chinua_Achebe]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>272616</ratings_count>
+<text_reviews_count>13994</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>825843</id>
+  <uri>kca://work/amzn1.gr.work.v1.O07zdgQmYuVRYPvaArHi0A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Dec 30 05:25:37 -0800 2018</date_added>
+  <date_updated>Sun Dec 30 05:25:49 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2645901162]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2645901162]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2631831257</id>
+    <book>
+  <id type="integer">38144289</id>
+  <isbn>8806233548</isbn>
+  <isbn13>9788806233549</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Wp7O1C9L3mryxGVnD4oN5Q</uri>
+  <title>Bassa risoluzione</title>
+  <title_without_series>Bassa risoluzione</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1516705065m/38144289.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1516705065s/38144289.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38144289-bassa-risoluzione</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information>Vele</edition_information>
+  <publisher>Einaudi</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>51</ratings_count>
+  <description>Internet ha modificato radicalmente il nostro approccio con la profondit\xc3\xa0, con le informazioni, le relazioni sociali, i mercati e la cultura. Ascoltiamo musica in nuovi formati digitali, fotografiamo il mondo attraverso la piccola ottica dei nostri telefoni cellulari. Non leggiamo pi\xc3\xb9 i quotidiani, preferendo l'informazione casuale che rimbalza sui profili &lt;i&gt;social&lt;/i&gt; dei nostri \xc2\xabamici\xc2\xbb. Ma abbiamo sposato le cucine Ikea e i graffiti di Banksy, nuovi manufatti a &lt;i&gt;bassa risoluzione&lt;/i&gt; che riempiono oggi le nostre vite.&lt;br /&gt;Questo libro indaga le relazioni fra simili scelte di riduzione e i mutamenti della societ\xc3\xa0 connessa. Spesso attraverso simili opzioni si intravedono i segni di una nuova intelligenza, altre volte esse raccontano per sommi capi la nostra usuale superficialit\xc3\xa0. Nella bassa risoluzione tecnologica il tempo reale travolge l'archivio. Internet, luogo della documentalit\xc3\xa0, si trasforma nello spazio in cui ogni cosa sar\xc3\xa0 rapidamente dimenticata.</description>
+<authors>
+<author>
+<id>8528410</id>
+<name>Massimo Mantellini</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8528410.Massimo_Mantellini]]></link>
+<average_rating>3.63</average_rating>
+<ratings_count>94</ratings_count>
+<text_reviews_count>11</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>59829319</id>
+  <uri>kca://work/amzn1.gr.work.v1.mdkqOCok89UQktZLJnhbbw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Dec 19 12:22:50 -0800 2018</date_added>
+  <date_updated>Wed Dec 19 12:23:01 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2631831257]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2631831257]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2628299167</id>
+    <book>
+  <id type="integer">32585</id>
+  <isbn>0486431681</isbn>
+  <isbn13>9780486431680</isbn13>
+  <text_reviews_count type="integer">1256</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cJco4TS-Cfuw6S-d4ktHpg</uri>
+  <title>Hunger</title>
+  <title_without_series>Hunger</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1456243307m/32585.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1456243307s/32585.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32585.Hunger</link>
+  <num_pages>134</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dover Publications</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>34382</ratings_count>
+  <description>One of the most important and controversial writers of the 20th century, Knut Hamsun made literary history with the publication in 1890 of this powerful, autobiographical novel recounting the abject poverty, hunger and despair of a young writer struggling to achieve self-discovery and its ultimate artistic expression. The book brilliantly probes the psychodynamics of alienation, obsession, and self-destruction, painting an unforgettable portrait of a man driven by forces beyond his control to the edge of the abyss. Hamsun influenced many of the major 20th-century writers who followed him, including Kafka, Joyce and Henry Miller. Required reading in world literature courses, the highly influential, landmark novel will also find a wide audience among lovers of books that probe the "unexplored crannies in the human soul" (George Egerton).</description>
+<authors>
+<author>
+<id>18317</id>
+<name>Knut Hamsun</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1455562757p5/18317.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1455562757p2/18317.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18317.Knut_Hamsun]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>63173</ratings_count>
+<text_reviews_count>4309</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>3135610</id>
+  <uri>kca://work/amzn1.gr.work.v1.j8lxbJ1WHGMHN2bE9BnYmw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Dec 16 07:45:53 -0800 2018</date_added>
+  <date_updated>Sun Dec 16 07:46:07 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2628299167]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2628299167]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2623219666</id>
+    <book>
+  <id type="integer">22285</id>
+  <isbn>0385517874</isbn>
+  <isbn13>9780385517874</isbn13>
+  <text_reviews_count type="integer">2487</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oRgXCr-E27kWZwUgWjaoGw</uri>
+  <title>Rant</title>
+  <title_without_series>Rant</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22285.Rant</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Doubleday Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>56743</ratings_count>
+  <description>Buster \xe2\x80\x9cRant\xe2\x80\x9d Casey just may be the most efficient serial killer of our time. A high school rebel, Rant Casey escapes from his small town home for the big city where he becomes the leader of an urban demolition derby called Party Crashing. Rant Casey will die a spectacular highway death, after which his friends gather the testimony needed to build an oral history of his short, violent life.</description>
+<authors>
+<author>
+<id>2546</id>
+<name>Chuck Palahniuk</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1391203076p5/2546.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1391203076p2/2546.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2546.Chuck_Palahniuk]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>1335250</ratings_count>
+<text_reviews_count>57807</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2902758</id>
+  <uri>kca://work/amzn1.gr.work.v1.ykkerlw01g5DkDNKOxdtcg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Dec 11 10:39:10 -0800 2018</date_added>
+  <date_updated>Tue Dec 11 10:39:29 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2623219666]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2623219666]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2597245688</id>
+    <book>
+  <id type="integer">4069</id>
+  <isbn>080701429X</isbn>
+  <isbn13>9780807014295</isbn13>
+  <text_reviews_count type="integer">11190</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FHjzYvqM_2RU0Dyt5t6c1Q</uri>
+  <title>Man's Search for Meaning</title>
+  <title_without_series>Man's Search for Meaning</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1535419394m/4069.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1535419394s/4069.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning</link>
+  <num_pages>165</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Beacon Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>271648</ratings_count>
+  <description>Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Based on his own experience and the stories of his patients, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. At the heart of his theory, known as logotherapy, is a conviction that the primary human drive is not pleasure but the pursuit of what we find meaningful. &lt;i&gt;Man's Search for Meaning&lt;/i&gt; has become one of the most influential books in America; it continues to inspire us all to find significance in the very act of living.</description>
+<authors>
+<author>
+<id>2782</id>
+<name>Viktor E. Frankl</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542894524p5/2782.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542894524p2/2782.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2782.Viktor_E_Frankl]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>278761</ratings_count>
+<text_reviews_count>14872</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3389674</id>
+  <uri>kca://work/amzn1.gr.work.v1.A7nYAiWvTn1MXcK_zXFOBw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 17 09:45:57 -0800 2018</date_added>
+  <date_updated>Sat Nov 17 09:46:07 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2597245688]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2597245688]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2594368109</id>
+    <book>
+  <id type="integer">1399157</id>
+  <isbn>8885989403</isbn>
+  <isbn13>9788885989405</isbn13>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qIfDcMnNsZq4Wb_WUgG2XA</uri>
+  <title>Va' dove ti porta il cuore</title>
+  <title_without_series>Va' dove ti porta il cuore</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1300896933m/1399157.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1300896933s/1399157.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1399157.Va_dove_ti_porta_il_cuore</link>
+  <num_pages>165</num_pages>
+  <format>Paperback</format>
+  <edition_information>Romanzi e racconti #10</edition_information>
+  <publisher>Baldini &amp; Castoldi</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>8854</ratings_count>
+  <description>"Va' dove ti porta il cuore", racconta una storia forte e umanissima in forma di lunga lettera - scandita come un diario - di una donna anziana alla giovane nipote lontana. \xc3\x88 una lettera di amore e allo stesso tempo una pacata ma appassionata confessione a cuore aperto di un'intera vita che nel gesto della scrittura ritrova finalmente il senso della propria esperienza e della propria identit\xc3\xa0.</description>
+<authors>
+<author>
+<id>21930</id>
+<name>Susanna Tamaro</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1316596141p5/21930.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1316596141p2/21930.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21930.Susanna_Tamaro]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>14610</ratings_count>
+<text_reviews_count>1222</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>1459836</id>
+  <uri>kca://work/amzn1.gr.work.v1.XCKjrzS_7k10HbkpUnFBaA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 14 12:40:48 -0800 2018</date_added>
+  <date_updated>Wed Nov 14 12:40:58 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2594368109]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2594368109]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2580224924</id>
+    <book>
+  <id type="integer">37435</id>
+  <isbn>0142001740</isbn>
+  <isbn13>9780142001745</isbn13>
+  <text_reviews_count type="integer">25391</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.h8AO4GN71VVb-YwrLSjCyA</uri>
+  <title>The Secret Life of Bees</title>
+  <title_without_series>The Secret Life of Bees</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1473454532m/37435.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473454532s/37435.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37435.The_Secret_Life_of_Bees</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1017798</ratings_count>
+  <description>Set in South Carolina in 1964, &lt;i&gt;The Secret Life of Bees&lt;/i&gt; tells the story of Lily Owens, whose life has been shaped around the blurred memory of the afternoon her mother was killed. When Lily's fierce-hearted black "stand-in mother," Rosaleen, insults three of the deepest racists in town, Lily decides to spring them both free. They escape to Tiburon, South Carolina--a town that holds the secret to her mother's past. Taken in by an eccentric trio of black beekeeping sisters, Lily is introduced to their mesmerizing world of bees and honey, and the Black Madonna. This is a remarkable novel about divine female power, a story women will share and pass on to their daughters for years to come.</description>
+<authors>
+<author>
+<id>4711</id>
+<name>Sue Monk Kidd</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387316516p5/4711.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387316516p2/4711.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4711.Sue_Monk_Kidd]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>1337013</ratings_count>
+<text_reviews_count>58562</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>3275013</id>
+  <uri>kca://work/amzn1.gr.work.v1.rwWlvyUK_JGWo902AN_l7g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Nov 01 08:22:07 -0700 2018</date_added>
+  <date_updated>Thu Nov 01 08:22:22 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2580224924]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2580224924]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2580205174</id>
+    <book>
+  <id type="integer">8759521</id>
+  <isbn>8811669634</isbn>
+  <isbn13>9788811669630</isbn13>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ICWrdIws-tkwaDCKOtbQew</uri>
+  <title>I milanesi ammazzano al sabato (Duca Lamberti, #4)</title>
+  <title_without_series>I milanesi ammazzano al sabato</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1391269844m/8759521.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1391269844s/8759521.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8759521-i-milanesi-ammazzano-al-sabato</link>
+  <num_pages>180</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Garzanti</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>503</ratings_count>
+  <description>Donatella \xc3\xa8 scomparsa. \xc3\x88 bellissima, sembra una svedese, con quei lunghi capelli biondi e quel profilo antico. Ma \xc3\xa8 debole di mente: per la strada guarda gli uomini, sorride a tutti e, qualunque cosa le dicano, risponde di s\xc3\xac. Perci\xc3\xb2 suo padre, il vecchio Amanzio Berzaghi, un ex camionista, la tiene nascosta in casa, tra bambole e dischi di canzonette. Ma una mattina l'ex camionista non la trova pi\xc3\xb9... Il caso viene affidato a Duca Lamberti, il medico-investigatore. Alla disperata ricerca della ragazza, Lamberti si spinge nei bassifondi di Milano, tra feroci magnaccia e case d'appuntamento.</description>
+<authors>
+<author>
+<id>97948</id>
+<name>Giorgio Scerbanenco</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291027646p5/97948.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291027646p2/97948.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/97948.Giorgio_Scerbanenco]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>3149</ratings_count>
+<text_reviews_count>442</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>1771390</id>
+  <uri>kca://work/amzn1.gr.work.v1.iiWCTYllcnXQpGEyH8gPoA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Nov 01 08:00:33 -0700 2018</date_added>
+  <date_updated>Thu Nov 01 08:00:55 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2580205174]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2580205174]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2580204042</id>
+    <book>
+  <id type="integer">1768603</id>
+  <isbn>1416562591</isbn>
+  <isbn13>9781416562597</isbn13>
+  <text_reviews_count type="integer">7570</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.u2MprLaBiN3doEYXe3cUgg</uri>
+  <title>The White Tiger</title>
+  <title_without_series>The White Tiger</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1768603.The_White_Tiger</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Free Press</publisher>
+  <publication_day/>
+  <publication_year>2008</publication_year>
+  <publication_month/>
+  <average_rating>3.73</average_rating>
+  <ratings_count>140375</ratings_count>
+  <description>Introducing a major literary talent, The White Tiger offers a story of coruscating wit, blistering suspense, and questionable morality, told by the most volatile, captivating, and utterly inimitable narrator that this millennium has yet seen. &lt;br /&gt;&lt;br /&gt;Balram Halwai is a complicated man. Servant. Philosopher. Entrepreneur. Murderer. Over the course of seven nights, by the scattered light of a preposterous chandelier, Balram tells us the terrible and transfixing story of how he came to be a success in life\xe2\x80\x94having nothing but his own wits to help him along. &lt;br /&gt;&lt;br /&gt;Born in the dark heart of India, Balram gets a break when he is hired as a driver for his village's wealthiest man, two house Pomeranians (Puddles and Cuddles), and the rich man's (very unlucky) son. From behind the wheel of their Honda City car, Balram's new world is a revelation. While his peers flip through the pages of Murder Weekly ("Love -- Rape -- Revenge!"), barter for girls, drink liquor (Thunderbolt), and perpetuate the Great Rooster Coop of Indian society, Balram watches his employers bribe foreign ministers for tax breaks, barter for girls, drink liquor (single-malt whiskey), and play their own role in the Rooster Coop. Balram learns how to siphon gas, deal with corrupt mechanics, and refill and resell Johnnie Walker Black Label bottles (all but one). He also finds a way out of the Coop that no one else inside it can perceive. &lt;br /&gt;&lt;br /&gt;Balram's eyes penetrate India as few outsiders can: the cockroaches and the call centers; the prostitutes and the worshippers; the ancient and Internet cultures; the water buffalo and, trapped in so many kinds of cages that escape is (almost) impossible, the white tiger. And with a charisma as undeniable as it is unexpected, Balram teaches us that religion doesn't create virtue, and money doesn't solve every problem -- but decency can still be found in a corrupt world, and you can get what you want out of life if you eavesdrop on the right conversations. &lt;br /&gt;&lt;br /&gt;The White Tiger recalls The Death of Vishnu and Bangkok 8 in ambition, scope, and narrative genius, with a mischief and personality all its own. Amoral, irreverent, deeply endearing, and utterly contemporary, this novel is an international publishing sensation \xe2\x80\x94and a startling, provocative debut.</description>
+<authors>
+<author>
+<id>810254</id>
+<name>Aravind Adiga</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1315250024p5/810254.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1315250024p2/810254.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/810254.Aravind_Adiga]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>153686</ratings_count>
+<text_reviews_count>10665</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>1766737</id>
+  <uri>kca://work/amzn1.gr.work.v1.LFmuVq5vjbTYOnye07NQqw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Nov 01 07:59:05 -0700 2018</date_added>
+  <date_updated>Thu Nov 01 08:00:01 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2580204042]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2580204042]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2569259791</id>
+    <book>
+  <id type="integer">10116927</id>
+  <isbn>1444724258</isbn>
+  <isbn13>9781444724257</isbn13>
+  <text_reviews_count type="integer">730</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Tkk-QmyLYEfQ4w0lHGupRw</uri>
+  <title>Pure</title>
+  <title_without_series>Pure</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1343662367m/10116927.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1343662367s/10116927.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10116927-pure</link>
+  <num_pages>346</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Sceptre</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.58</average_rating>
+  <ratings_count>7743</ratings_count>
+  <description>Deep in the heart of Paris, its oldest cemetery is, by 1785, overflowing, tainting the very breath of those who live nearby. Into their midst comes Jean-Baptiste Baratte, a young, provincial engineer charged by the king with demolishing it.&lt;br /&gt;&lt;br /&gt;At first Baratte sees this as a chance to clear the burden of history, a fitting task for a modern man of reason. But before long, he begins to suspect that the destruction of the cemetery might be a prelude to his own.</description>
+<authors>
+<author>
+<id>142462</id>
+<name>Andrew  Miller</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1354901897p5/142462.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1354901897p2/142462.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/142462.Andrew_Miller]]></link>
+<average_rating>3.56</average_rating>
+<ratings_count>12755</ratings_count>
+<text_reviews_count>1530</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>15014490</id>
+  <uri>kca://work/amzn1.gr.work.v1.B_FLs67RAKZTBtC8SmCiwA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Oct 21 14:09:01 -0700 2018</date_added>
+  <date_updated>Sun Oct 21 14:09:12 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2569259791]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2569259791]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2566220570</id>
+    <book>
+  <id type="integer">16059291</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-iIMlXb4ljSTAfnQ542Gnw</uri>
+  <title>L' autunno del patriarca</title>
+  <title_without_series>L' autunno del patriarca</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1349126277m/16059291.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1349126277s/16059291.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16059291-l-autunno-del-patriarca</link>
+  <num_pages>262</num_pages>
+  <format>Paperback</format>
+  <edition_information>Oscar narrativa #724</edition_information>
+  <publisher>Mondadori</publisher>
+  <publication_day/>
+  <publication_year>1988</publication_year>
+  <publication_month/>
+  <average_rating>3.85</average_rating>
+  <ratings_count>15695</ratings_count>
+  <description>"Il tema della dittatura \xc3\xa8 stato una costante della letteratura latino-americana fin dalle origini, e suppongo che continuer\xc3\xa0 a esserlo. \xc3\x88 comprensibile, dato che il dittatore \xc3\xa8 l'unico personaggio mitologico che ha prodotto l'America Latina, e il suo ciclo \xc3\xa8 ben lontano dall'essere concluso. Ma, in realt\xc3\xa0, a me non interessava tanto il personaggio in s\xc3\xa9 (il personaggio del dittatore feudale), quanto l'opportunit\xc3\xa0 che mi offriva di riflettere sul potere. \xc3\x88 un tema latente in tutti i miei romanzi. Perch\xc3\xa9 ho sempre creduto che il potere assoluto sia la realizzazione pi\xc3\xb9 alta e pi\xc3\xb9 complessa dell'essere umano e che per questa ragione riassuma forse ogni sua grandezza e miseria."</description>
+<authors>
+<author>
+<id>13450</id>
+<name>Gabriel Garc\xc3\xada M\xc3\xa1rquez</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1502310670p5/13450.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1502310670p2/13450.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>1393900</ratings_count>
+<text_reviews_count>63797</text_reviews_count>
+</author>
+</authors>
+  <published>1988</published>
+<work>  <id>6325280</id>
+  <uri>kca://work/amzn1.gr.work.v1.XzbPsBNCffHkigRZnlW3_g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Oct 18 13:13:12 -0700 2018</date_added>
+  <date_updated>Thu Oct 18 13:13:24 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2566220570]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2566220570]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2560575670</id>
+    <book>
+  <id type="integer">2539515</id>
+  <isbn>8807809907</isbn>
+  <isbn13>9788807809903</isbn13>
+  <text_reviews_count type="integer">45</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KfCmJ4VFCROQ2Xrem7PPCQ</uri>
+  <title>Terra!</title>
+  <title_without_series>Terra!</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1334152886m/2539515.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1334152886s/2539515.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2539515.Terra_</link>
+  <num_pages>317</num_pages>
+  <format></format>
+  <edition_information>Universale Economica #990</edition_information>
+  <publisher>Feltrinelli</publisher>
+  <publication_day/>
+  <publication_year>1985</publication_year>
+  <publication_month/>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1586</ratings_count>
+  <description>\xc3\x88 l'anno 2156: da una Parigi sotterranea e da un mondo ghiacciato dalle guerre nucleari, parte un'incredibile corsa spaziale, verso una nuova Terra pi\xc3\xb9 vivibile. Contro la Proteo Tien, la scassatissima astronave sineuropea, e il suo ancor pi\xc3\xb9 scassato equipaggio, scendono in campo due colossali imperi: l'Impero militare samurai, con una miniastronave su cui un generale giapponese guida sessanta topi ammaestrati, e la Calalbakrab, la reggia volante del tiranno amerorusso, il Grande Scorpione. Storie parallele e profezie, streghe astronaute e uomini serpente, geroglifici e slang spaziali, indovini e pirati, minestre misteriose e rivolte rock, sirene e computer con l'esaurimento nervoso si intrecciano in questo romanzo che fa invadere dagli eroi della vecchia avventura lo scenario della nuova avventura tecnologica. La scienza, la fantasia, la filosofia si arrestano davanti al mistero di una civilt\xc3\xa0 antichissima, e sfidano i potenti di un mondo guerriero. Riusciranno i nostri eroi ad aprire le quindici porte? Riusciranno a raggiungere il pianeta della mappa Boojum? Riusciranno a trovare, per la seconda volta, la Terra?</description>
+<authors>
+<author>
+<id>24707</id>
+<name>Stefano Benni</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1292065078p5/24707.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1292065078p2/24707.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24707.Stefano_Benni]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>28559</ratings_count>
+<text_reviews_count>1448</text_reviews_count>
+</author>
+</authors>
+  <published>1985</published>
+<work>  <id>111001</id>
+  <uri>kca://work/amzn1.gr.work.v1.kRJjwxQqvf0fva94eM_PIA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 13 02:49:35 -0700 2018</date_added>
+  <date_updated>Sat Oct 13 02:50:16 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2560575670]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2560575670]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2555967025</id>
+    <book>
+  <id type="integer">8633268</id>
+  <isbn>8807721821</isbn>
+  <isbn13>9788807721823</isbn13>
+  <text_reviews_count type="integer">208</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.b4JywT4T1B8fENIvO96ODA</uri>
+  <title>Cecit\xc3\xa0</title>
+  <title_without_series>Cecit\xc3\xa0</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1441235229m/8633268.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1441235229s/8633268.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8633268-cecit</link>
+  <num_pages>276</num_pages>
+  <format>Paperback</format>
+  <edition_information>Universale economica #2182</edition_information>
+  <publisher>Feltrinelli</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>160244</ratings_count>
+  <description>In un tempo e un luogo non precisati, all'improvviso l'intera popolazione diventa cieca per un'inspiegabile epidemia. Chi \xc3\xa8 colpito da questo male si trova come avvolto in una nube lattiginosa e non ci vede pi\xc3\xb9. Le reazioni psicologiche degli anonimi protagonisti sono devastanti, con un'esplosione di terrore e violenza, e gli effetti di questa misteriosa patologia sulla convivenza sociale risulteranno drammatici. I primi colpiti dal male vengono infatti rinchiusi in un ex manicomio per la paura del contagio e l'insensibilit\xc3\xa0 altrui, e qui si manifesta tutto l'orrore di cui l'uomo sa essere capace. Nel suo racconto fantastico, Saramago disegna la grande metafora di un'umanit\xc3\xa0 bestiale e feroce, incapace di vedere e distinguere le cose su una base di razionalit\xc3\xa0, artefice di abbrutimento, violenza, degradazione. Ne deriva un romanzo di valenza universale sull'indifferenza e l'egoismo, sul potere e la sopraffazione, sulla guerra di tutti contro tutti, una dura denuncia del buio della ragione, con un catartico spiraglio di luce e salvezza.</description>
+<authors>
+<author>
+<id>1285555</id>
+<name>Jos\xc3\xa9 Saramago</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1497455560p5/1285555.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1497455560p2/1285555.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1285555.Jos_Saramago]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>341463</ratings_count>
+<text_reviews_count>28397</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>3213039</id>
+  <uri>kca://work/amzn1.gr.work.v1.MVMEQEBRoGKbG4zib6155Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Oct 08 14:18:01 -0700 2018</date_added>
+  <date_updated>Mon Oct 08 14:18:13 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2555967025]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2555967025]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2551755199</id>
+    <book>
+  <id type="integer">10884</id>
+  <isbn>0743264738</isbn>
+  <isbn13>9780743264730</isbn13>
+  <text_reviews_count type="integer">2590</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Y3VmJwL-CVA91L_qML0kkg</uri>
+  <title>Einstein: His Life and Universe</title>
+  <title_without_series>Einstein: His Life and Universe</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1328011405m/10884.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328011405s/10884.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10884.Einstein</link>
+  <num_pages>675</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon  Schuster</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>98872</ratings_count>
+  <description>Einstein was a rebel and nonconformist from boyhood days, and these character traits drove both his life and his science. In this narrative, Walter Isaacson explains how his mind worked and the mysteries of the universe that he discovered.</description>
+<authors>
+<author>
+<id>7111</id>
+<name>Walter Isaacson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192222433p5/7111.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192222433p2/7111.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7111.Walter_Isaacson]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>1023271</ratings_count>
+<text_reviews_count>26005</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>985244</id>
+  <uri>kca://work/amzn1.gr.work.v1.kQAB3ssqcXRp_0oKFGaGBQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='304835069' name='science' review_shelf_id='2365923619' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Oct 04 11:54:36 -0700 2018</date_added>
+  <date_updated>Tue Feb 19 04:57:40 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2551755199]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2551755199]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2543337014</id>
+    <book>
+  <id type="integer">1219596</id>
+  <isbn>8804483946</isbn>
+  <isbn13>9788804483946</isbn13>
+  <text_reviews_count type="integer">33</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.klpF-aNvtXrni_NTH7gHmw</uri>
+  <title>Esco a fare due passi</title>
+  <title_without_series>Esco a fare due passi</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1411024594m/1219596.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1411024594s/1219596.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1219596.Esco_a_fare_due_passi</link>
+  <num_pages>165</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Mondadori</publisher>
+  <publication_day/>
+  <publication_year>2001</publication_year>
+  <publication_month/>
+  <average_rating>2.87</average_rating>
+  <ratings_count>1293</ratings_count>
+  <description>Cosa succede quando un ragazzo di ventotto anni, irrimediabilmente vittima della sindrome di Peter Pan, si mette di fronte ai temi importanti della vita, quelli con la T maiuscola? E' il caso di Nico, il protagonista di questo libro: un lavoro da deejay radiofonico, un discreto successo con le donne, una vita apparentemente spensierata e felice. Fabio Volo ci accompagna in un esilarante viaggio attraverso l'universo giovanile all'inizio del Terzo Millenio.</description>
+<authors>
+<author>
+<id>591239</id>
+<name>Fabio Volo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1379011590p5/591239.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1379011590p2/591239.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/591239.Fabio_Volo]]></link>
+<average_rating>3.23</average_rating>
+<ratings_count>11375</ratings_count>
+<text_reviews_count>632</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>1208073</id>
+  <uri>kca://work/amzn1.gr.work.v1.TGZS9Ys-NZDZ04POaZkWlQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 26 14:06:02 -0700 2018</date_added>
+  <date_updated>Wed Sep 26 14:06:10 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2543337014]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2543337014]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2543116929</id>
+    <book>
+  <id type="integer">90160</id>
+  <isbn>0812966120</isbn>
+  <isbn13>9780812966121</isbn13>
+  <text_reviews_count type="integer">649</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ChODo8Ls9L3bXS9jf02y1w</uri>
+  <title>Riders of the Purple Sage (Riders of the Purple Sage #1)</title>
+  <title_without_series>Riders of the Purple Sage</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1320415192m/90160.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1320415192s/90160.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/90160.Riders_of_the_Purple_Sage</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Modern Library</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>8659</ratings_count>
+  <description>Told by a master storyteller who, according to critic Russell Nye, \xe2\x80\x9ccombined adventure, action, violence, crisis, conflict, sentimentalism, and sex in an extremely shrewd mixture,\xe2\x80\x9d &lt;i&gt;Riders of the Purple Sage&lt;/i&gt; is a classic of the Western genre. It is the story of Lassiter, a gunslinging avenger in black, who shows up in a remote Utah town just in time to save the young and beautiful rancher Jane Withersteen from having to marry a Mormon elder against her will. Lassiter is on his own quest, one that ends when he discovers a secret grave on Jane\xe2\x80\x99s grounds. \xe2\x80\x9c[Zane Grey\xe2\x80\x99s] popularity was neither accidental nor undeserved,\xe2\x80\x9d wrote Nye. \xe2\x80\x9cFew popular novelists have possessed such a grasp of what the public wanted and few have developed Grey\xe2\x80\x99s skill at supplying it.\xe2\x80\x9d</description>
+<authors>
+<author>
+<id>18134</id>
+<name>Zane Grey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1304279278p5/18134.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1304279278p2/18134.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18134.Zane_Grey]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>43140</ratings_count>
+<text_reviews_count>2939</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>2663060</id>
+  <uri>kca://work/amzn1.gr.work.v1.X9WuA3L25nQ5I7jrA8U2kQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 26 10:26:47 -0700 2018</date_added>
+  <date_updated>Wed Sep 26 10:27:05 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2543116929]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2543116929]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2481886468</id>
+    <book>
+  <id type="integer">3621358</id>
+  <isbn>0752889958</isbn>
+  <isbn13>9780752889955</isbn13>
+  <text_reviews_count type="integer">270</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Hj5m5VZsiHLwuCw84_I7zw</uri>
+  <title>Inverting the Pyramid: The History of Football Tactics</title>
+  <title_without_series>Inverting the Pyramid: The History of Football Tactics</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1328859803m/3621358.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328859803s/3621358.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3621358-inverting-the-pyramid</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Orion</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>6823</ratings_count>
+  <description>Soccer fans love to argue about the tactics a manager puts into play, and this fascinating study traces the world history of tactics, from modern pioneers right back to the beginning, where chaos reigned. Along the way, author Jonathan Wilson, an erudite and detailed writer who never loses a sense of the grand narrative sweep, takes a look at the lives of the great players and thinkers who shaped the game, and discovers why the English in particular have proved themselves so \xe2\x80\x9cunwilling to grapple with the abstract.\xe2\x80\x9d This is a modern classic of soccer writing that followers of the game will dip into again and again.</description>
+<authors>
+<author>
+<id>4589452</id>
+<name>Jonathan  Wilson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542313008p5/4589452.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542313008p2/4589452.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4589452.Jonathan_Wilson]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>9735</ratings_count>
+<text_reviews_count>562</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>3664138</id>
+  <uri>kca://work/amzn1.gr.work.v1.9eOKUIRhvae3M32DqAcdQg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Aug 04 08:29:19 -0700 2018</date_added>
+  <date_updated>Sat Aug 04 08:29:32 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2481886468]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2481886468]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2459927764</id>
+    <book>
+  <id type="integer">18245740</id>
+  <isbn>8808199754</isbn>
+  <isbn13>9788808199751</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0xQ3ONdkCYVI_bRpLWtgVg</uri>
+  <title>La scienza nel pallone</title>
+  <title_without_series>La scienza nel pallone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1374900107m/18245740.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1374900107s/18245740.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18245740-la-scienza-nel-pallone</link>
+  <num_pages>176</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Zanichelli</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>11</ratings_count>
+  <description>Il calcio non \xc3\xa8 fatto soltanto di emozioni, ma anche di numeri.&lt;br /&gt;&lt;br /&gt;A che velocit\xc3\xa0 pu\xc3\xb2 viaggiare un pallone? &lt;br /&gt;Qual \xc3\xa8 la probabilit\xc3\xa0 di segnare un rigore? &lt;br /&gt;E perch\xc3\xa9 la palla a volte devia dalla sua traiettoria naturale, consentendo di realizzare gol \xc2\xabimpossibili\xc2\xbb?&lt;br /&gt;Come ogni fenomeno, anche il calcio obbedisce a leggi naturali studiate dalla fisica e dalla matematica, che risultano essenziali per comprendere davvero ci\xc3\xb2 che succede sul campo.&lt;br /&gt;&lt;br /&gt;I processi che governano il gioco \xe2\x88\x92 dai diversi modi in cui si pu\xc3\xb2 colpire la palla alla biomeccanica dei tiri pi\xc3\xb9 acrobatici, fino alle illusioni ottiche che ingannano giocatori e arbitro \xe2\x88\x92 sono analizzati con rigore scientifico e leggerezza di scrittura, per svelare i segreti dello sport pi\xc3\xb9 popolare al mondo.</description>
+<authors>
+<author>
+<id>6476052</id>
+<name>Nicola Ludwig</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6476052.Nicola_Ludwig]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>14</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>25695977</id>
+  <uri>kca://work/amzn1.gr.work.v1.fiuO3bc374tGp94vnSMe6w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 17 02:12:48 -0700 2018</date_added>
+  <date_updated>Tue Jul 17 02:13:02 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2459927764]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2459927764]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2453135467</id>
+    <book>
+  <id type="integer">40782045</id>
+  <isbn nil="true"/>
+  <isbn13>9788844031343</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4QFLXBI5U6lPT-kpjFUPgQ</uri>
+  <title>Calcio. Tecnica Regole Tattiche Strategia</title>
+  <title_without_series>Calcio. Tecnica Regole Tattiche Strategia</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40782045-calcio-tecnica-regole-tattiche-strategia</link>
+  <num_pages>127</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Giunti Demetra</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>Per il tifoso pi\xc3\xb9 scatenato come per chi lo pratica a livello dilettantistico, tutto quello che bisogna sapere sullo sport pi\xc3\xb9 appassionante e seguito.</description>
+<authors>
+<author>
+<id>18112365</id>
+<name>Fulvio Damele</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18112365.Fulvio_Damele]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>2</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>62827184</id>
+  <uri>kca://work/amzn1.gr.work.v1.eCAlAmhkLRVDGKE9MgMJyw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jul 11 02:59:13 -0700 2018</date_added>
+  <date_updated>Wed Jul 11 02:59:26 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2453135467]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2453135467]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2453133483</id>
+    <book>
+  <id type="integer">40501298</id>
+  <isbn>8841213396</isbn>
+  <isbn13>9788841213391</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vg2uSFB6uuuIJPyL3WXSBg</uri>
+  <title>Calcio. Regolamento allenamento strategie</title>
+  <title_without_series>Calcio. Regolamento allenamento strategie</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1528575693m/40501298.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1528575693s/40501298.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40501298-calcio-regolamento-allenamento-strategie</link>
+  <num_pages>127</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>De Vecchi</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>Un manuale per apprendere tutti gli elementi tecnici e le regole dello sport pi\xc3\xb9 amato e diffuso, per imparare a giocarlo o a insegnarlo e per poterne parlare con competenza.</description>
+<authors>
+<author>
+<id>18112365</id>
+<name>Fulvio Damele</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18112365.Fulvio_Damele]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>2</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>62827184</id>
+  <uri>kca://work/amzn1.gr.work.v1.eCAlAmhkLRVDGKE9MgMJyw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jul 11 02:55:08 -0700 2018</date_added>
+  <date_updated>Wed Jul 11 02:55:17 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2453133483]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2453133483]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2445489258</id>
+    <book>
+  <id type="integer">12996</id>
+  <isbn>0743477553</isbn>
+  <isbn13>9780743477550</isbn13>
+  <text_reviews_count type="integer">3868</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5s1i6WfeoF835C6rYwSlXw</uri>
+  <title>Othello</title>
+  <title_without_series>Othello</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1459795105m/12996.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1459795105s/12996.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12996.Othello</link>
+  <num_pages>314</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon  Schuster</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>280565</ratings_count>
+  <description>In Othello, Shakespeare creates a powerful drama of a marriage that begins with fascination (between the exotic Moor Othello and the Venetian lady Desdemona), with elopement, and with intense mutual devotion and that ends precipitately with jealous rage and violent deaths. He sets this story in the romantic world of the Mediterranean, moving the action from Venice to the island of Cyprus and giving it an even more exotic coloring with stories of Othello's African past. Shakespeare builds so many differences into his hero and heroine\xe2\x80\x94differences of race, of age, of cultural background\xe2\x80\x94that one should not, perhaps, be surprised that the marriage ends disastrously. But most people who see or read the play feel that the love that the play presents between Othello and Desdemona is so strong that it would have overcome all these differences were it not for the words and actions of Othello's standard-bearer, Iago, who hates Othello and sets out to destroy him by destroying his love for Desdemona. As Othello succumbs to Iago's insinuations that Desdemona is unfaithful, fascination\xe2\x80\x94which dominates the early acts of the play\xe2\x80\x94turns to horror, especially for the audience. We are confronted by spectacles of a generous and trusting Othello in the grip of Iago's schemes; of an innocent Desdemona, who has given herself up entirely to her love for Othello only to be subjected to his horrifying verbal and physical assaults, the outcome of Othello's mistaken convictions about her faithlessness.</description>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p5/947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p2/947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>5644685</ratings_count>
+<text_reviews_count>97419</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>995103</id>
+  <uri>kca://work/amzn1.gr.work.v1.U2eVlk04jef70lWTnzAb0A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jul 04 13:04:20 -0700 2018</date_added>
+  <date_updated>Wed Jul 04 13:04:39 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Una delle tragedie pi\xc3\xb9 famose di W. Shakespeare.<br /><br />La trama, come sempre, \xc3\xa8 semplice: Otello, valoroso condottiero per i veneziani, ama Desdemona; Iago, uno dei suoi aiutanti, ce l'ha su con lui, perci\xc3\xb2 elabora un astuto quanto ignobile piano per mandarlo in rovina: soffiare sul fuoco della sua gelosia. Alla fine muoiono in tanti, ma anche Iago viene smascherato.<br /><br />(Scusate per lo spoiler).<br /><br />Ricordo un episodio di un film, di Pasolini, "Che cosa sono le nuvole", con Tot\xc3\xb2 nei panni di uno Iago burattino dalla faccia verde: ecco, per me, quella \xc3\xa8 la faccia di Iago. Che \xc3\xa8 il vero protagonista della tragedia, quello che fa succedere tutto. elebra l'inganno. E, alla fine, ne \xc3\xa8 vittima. Mette tutta la sua abilit\xc3\xa0 e le sue energie al servizio di un singolo impulso meschino: portare all'infelicit\xc3\xa0 il suo capitano. Per quale colpa, poi? Una promozione mancata, l'invidia, la lussuria inappagata. Non conta tanto la causa scatenante: come spesso accade, in Shakespeare, nelle tragedie, la brutta fine appare sin dall'inizio quasi ineluttabile, decisa dal destino, soltanto inespressa ma intrinseca al capovolgimento dei valori (disprezzo della virt\xc3\xb9, celebrazione dell'inganno) che contamina il mondo, ed \xc3\xa8 incarnato qui da Iago.<br /><br />Otello mi \xc3\xa8 sembrato cos\xc3\xac passivo ed ingenuo, si \xc3\xa8 fatto abbindolare senza battere ciglio. Non riesco ad immedesimarmi in quel genere di gelosia.<br /><br />Ma queste sono solo le impressioni alla prima lettura. Mi riprometto di guardare qualche film o ripresa teatrale, in particolare la versione cinematografica di Orson Welles, che ne \xc3\xa8 sia regista che interprete, proprio come Otello: difficile che si sia limitato ad un ruolo da comprimario sciocco.<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2445489258]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2445489258]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2443888215</id>
+    <book>
+  <id type="integer">9649488</id>
+  <isbn>8807816350</isbn>
+  <isbn13>9788807816352</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1DXhM1I_ZwLkEC4s8DMxSg</uri>
+  <title>Prima del calcio di rigore</title>
+  <title_without_series>Prima del calcio di rigore</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1329161399m/9649488.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1329161399s/9649488.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9649488-prima-del-calcio-di-rigore</link>
+  <num_pages>152</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.29</average_rating>
+  <ratings_count>1725</ratings_count>
+  <description>Josef Bloch, ex portiere di qualche fama, si trova senza lavoro, vaga per Vienna, uccide senza motivo la ragazza con cui passa la notte e, da allora, comincia a sentirsi accerchiato, spiato, seguito e, naturalmente, colpevole. Come la paura del portiere di fronte al calciatore pronto a tirare il calcio di rigore, quella di Bloch \xc3\xa8 una tensione spasmodica, un tentativo delirante di interpretare le mosse dell'avversario e di parare il colpo.</description>
+<authors>
+<author>
+<id>965</id>
+<name>Peter Handke</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417260177p5/965.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417260177p2/965.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/965.Peter_Handke]]></link>
+<average_rating>3.55</average_rating>
+<ratings_count>8875</ratings_count>
+<text_reviews_count>933</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1388905</id>
+  <uri>kca://work/amzn1.gr.work.v1.75t64kydWRg4Lj0ImecShQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 03 01:24:33 -0700 2018</date_added>
+  <date_updated>Tue Jul 03 01:24:35 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2443888215]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2443888215]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2441658564</id>
+    <book>
+  <id type="integer">6288</id>
+  <isbn>0307265439</isbn>
+  <isbn13>9780307265432</isbn13>
+  <text_reviews_count type="integer">32987</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.T64IhNK1aw5IyfA-QL3i5g</uri>
+  <title>The Road</title>
+  <title_without_series>The Road</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1439197219m/6288.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1439197219s/6288.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6288.The_Road</link>
+  <num_pages>241</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition (US/CAN)</edition_information>
+  <publisher>Alfred A. Knopf</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>628668</ratings_count>
+  <description>A searing, postapocalyptic novel destined to become Cormac McCarthy\xe2\x80\x99s masterpiece.&lt;br /&gt;&lt;br /&gt;A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don\xe2\x80\x99t know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food\xe2\x80\x94and each other.&lt;br /&gt;&lt;br /&gt;The Road is the profoundly moving story of a journey. It boldly imagines a future in which no hope remains, but in which the father and his son, \xe2\x80\x9ceach the other\xe2\x80\x99s world entire,\xe2\x80\x9d are sustained by love. Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.&lt;br /&gt;(front flap)</description>
+<authors>
+<author>
+<id>4178</id>
+<name>Cormac McCarthy</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414695980p5/4178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414695980p2/4178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4178.Cormac_McCarthy]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>1051834</ratings_count>
+<text_reviews_count>72043</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3355573</id>
+  <uri>kca://work/amzn1.gr.work.v1.HxJNVHZYstPZ9eLMlrcq4g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jul 01 05:19:01 -0700 2018</date_added>
+  <date_updated>Sun Jul 01 05:21:10 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Acclamato romanzo post-apocalittico di Cormac McCarthy, dei primi anni 2000.<br /><br />La premessa \xc3\xa8 semplice, scarna: due persone, padre e figlio, camminano, senza una chiara destinazione -- verso il mare, forse. Tutto, intorno a loro, \xc3\xa8 sterile, bruciato, ricoperto dalla cenere, in conseguenza di una qualche apocalisse mondiale non meglio specificata. Gli alberi sono morti, l'acqua \xc3\xa8 grigia, l'unico cibo che si trova \xc3\xa8 quello conservato, risalente a prima della scomparsa della civilt\xc3\xa0.<br /><br />I due incontrano ogni tanto delle altre persone, spesso animate da cattive intenzioni, sempre abbrutite, regredite alla semplice lotta per la sopravvivenza. Anche i due protagonisti, e noi con loro, passano gran parte del tempo impegnati a sopravvivere: a procurarsi il cibo, a difendersi dal freddo, a trasportare con se' coperte e utensili.<br /><br />Ma al centro di tutto questo, come sfondo silenzioso alla onnipresente pioggia di cenere, resta il rapporto tra il padre e il figlio, le premure che il primo dedica al secondo, e l'incontaminata innocenza e compassione del bambino. Che sono sufficienti a dare un senso a tutto, a dare la forza per affrontare le avversit\xc3\xa0 continue, non pi\xc3\xb9 ciecamente ma rischiarati da una luce di speranza. Sino alla conclusione.<br /><br />Nonostante la prosa sia estremamente asciutta, apparentemente impersonale come i paesaggi che descrive, il romanzo \xc3\xa8 molto emozionante. E, a quanto si legge in giro, ha una forte motivazione autobiografica: l'autore, ormai vecchio, pensava a che mondo avrebbe lasciato in dote al suo giovane figlio -- e a lui, infatti, dedica il libro.<br /><br />Da leggere.<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2441658564]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2441658564]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2434429059</id>
+    <book>
+  <id type="integer">9719144</id>
+  <isbn>8845914879</isbn>
+  <isbn13>9788845914874</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FMMVNVvAtoIyWXjY2CplhA</uri>
+  <title>Storie e leggende napoletane</title>
+  <title_without_series>Storie e leggende napoletane</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1300406326m/9719144.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1300406326s/9719144.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9719144-storie-e-leggende-napoletane</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information>Gli Adelphi</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.31</average_rating>
+  <ratings_count>16</ratings_count>
+  <description>&lt;i&gt;[Trovi un'edizione con copertina alternativa per questo ISBN &lt;a href="https://www.goodreads.com/book/show/36006978-storie-e-leggende-napoletane" rel="nofollow"&gt;qui&lt;/a&gt;]&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Un incantevole libro, nato dall\xe2\x80\x99\xc2\xabaffetto per le vecchie memorie napoletane\xc2\xbb, prende l\xe2\x80\x99avvio da ci\xc3\xb2 che Benedetto Croce vedeva affacciandosi alla finestra del suo studio a Palazzo Filomarino, nel cuore di Napoli: palazzi, campanili, mura di monasteri. E \xc2\xaball\xe2\x80\x99ombra degli alti tetti e tra le angustie delle vecchie vie\xc2\xbb, Croce si appresta subito a \xc2\xabriparare nella pi\xc3\xb9 vasta ombra delle memorie\xc2\xbb. Cos\xc3\xac, a poco a poco, con familiarit\xc3\xa0 e alta dottrina, vengono evocate ai nostri occhi tante \xc2\xabstorie e leggende\xc2\xbb di Napoli che ancora impregnano l\xe2\x80\x99aria dei luoghi. Passeggiamo attraverso i secoli, le cronache, le passioni \xe2\x80\x93 e intanto \xc3\xa8 lo spirito stesso della citt\xc3\xa0, e della sua composita civilt\xc3\xa0, che prende forma di fronte a noi. Nessun altro libro ci aiuta con altrettanta sapienza a capire Napoli e le sue disparate vicende, a cui Croce si dichiarava legato da una profonda passione. E precisava poi: \xc2\xabil legame sentimentale col passato prepara e aiuta l\xe2\x80\x99intelligenza storica, condizione di ogni vero avanzamento civile, e soprattutto assai ingentilisce gli animi\xc2\xbb. Benedetto Croce pubblic\xc3\xb2 nel 1919 la prima edizione di Storie e leggende napoletane, dove rifuse vari suoi studi degli anni precedenti.</description>
+<authors>
+<author>
+<id>268183</id>
+<name>Benedetto Croce</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1258796643p5/268183.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1258796643p2/268183.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/268183.Benedetto_Croce]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>382</ratings_count>
+<text_reviews_count>43</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>14276894</id>
+  <uri>kca://work/amzn1.gr.work.v1.zeNRpLVaCYsQq3FWPLj03g</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jun 24 12:59:57 -0700 2018</date_added>
+  <date_updated>Sun Jun 24 13:00:12 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Una raccolta di saggi sulla storia di Napoli, di Benedetto Croce.<br /><br />Lo stile \xc3\xa8 molto antiquato e accademico. Nonostante il titolo, pi\xc3\xb9 che di leggende, si tratta di dissertazioni erudite sulle vicende e la genealogia di personaggi storici importanti per Napoli, specie del Quattro/Cinquecento. Di leggende si parla solo nell'ultimo capitolo, ma con lo stesso stile paludato e pedante. <br /><br />La lettura riporta alla memoria la storia della letteratura italiana studiata a scuola, che ha avuto il demerito di farmi odiare alcuni autori che probabilmente meritavano una diversa attenzione.<br /><br />Un libro davvero lontano dalle mie inclinazioni, e che se potessi scegliere non rileggerei.<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2434429059]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2434429059]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2424061271</id>
+    <book>
+  <id type="integer">6052050</id>
+  <isbn>8845914275</isbn>
+  <isbn13>9788845914270</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.b2P30wPCpqZMtOb9m5S-vQ</uri>
+  <title>Finzioni</title>
+  <title_without_series>Finzioni</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1388355962m/6052050.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1388355962s/6052050.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6052050-finzioni</link>
+  <num_pages>186</num_pages>
+  <format>Paperback</format>
+  <edition_information>Biblioteca Adelphi #445</edition_information>
+  <publisher>Adelphi</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>41377</ratings_count>
+  <description>Un falso paese scoperto in \xc2\xabun\xe2\x80\x99enciclopedia pirata\xc2\xbb, Uqbar, e un pianeta immaginario, Tl\xc3\xb6n, \xc2\xablabirinto ordito da uomini\xc2\xbb ma capace di cambiare la faccia del mondo; il &lt;i&gt;Don Chisciotte&lt;/i&gt; di Menard, identico a quello di Cervantes eppure infinitamente pi\xc3\xb9 ricco; il mago che plasma un figlio nella materia dei sogni e scopre di essere a sua volta solo un sogno; l\xe2\x80\x99infinita Biblioteca di Babele, i cui scaffali \xc2\xabregistrano tutte le combinazioni possibili della ventina di simboli ortografici ... cio\xc3\xa8 tutto ci\xc3\xb2 che \xc3\xa8 dato di esprimere: in tutte le lingue\xc2\xbb e che sopravviver\xc3\xa0 all\xe2\x80\x99estinzione della specie umana; il giardino dai sentieri che si biforcano; l\xe2\x80\x99insonne Funes, che ha pi\xc3\xb9 ricordi di quanti ne avranno mai tutti gli uomini insieme; il perspicace detective L\xc3\xb6nnrot, che risolve una serie di delitti grazie a un triangolo equilatero e a una parola greca, &lt;i&gt;Tetragrammaton&lt;/i&gt;, e si condanna a morte; lo scrittore ebreo Jaromir Hlad\xc3\xack, cui Dio concede di portare a termine una tragedia in versi davanti al plotone di esecuzione tedesco, in un immoto istante che dura un anno. Sono i lemmi di un\xe2\x80\x99enciclopedia illusoria e al tempo stesso, non diversamente da quella di Tl\xc3\xb6n, di arcana, irresistibile potenza. Un\xe2\x80\x99enciclopedia che ha scompaginato le nostre certezze in materia di letteratura e che tuttavia sembra riflettere il nostro paesaggio interiore \xe2\x80\x93 come un\xe2\x80\x99antica mappa che, riaffiorata d\xe2\x80\x99improvviso alla luce, riveli segni e simboli inspiegabilmente familiari. Un\xe2\x80\x99enciclopedia che, forse, avevamo gi\xc3\xa0 sognato.&lt;br /&gt;&lt;i&gt;Finzioni&lt;/i&gt; (1944) giunse in Italia nel 1955, e la traduzione di Franco Lucentini fu la prima di un\xe2\x80\x99opera di Borges. Ora, a distanza di quasi cinquant\xe2\x80\x99anni, lo presentiamo in una nuova versione, che tiene conto delle varianti e delle aggiunte introdotte nella seconda edizione, del 1956: baster\xc3\xa0 ricordare che furono inclusi tre nuovi racconti \xe2\x80\x93 &lt;i&gt;La fine, La setta della Fenice e Il Sud&lt;/i&gt; \xe2\x80\x93, fra gli ultimi scritti da Borges prima della lunga pausa narrativa che si concluder\xc3\xa0 con &lt;i&gt;Il manoscritto di Brodie&lt;/i&gt;.</description>
+<authors>
+<author>
+<id>500</id>
+<name>Jorge Luis Borges</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p5/500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p2/500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/500.Jorge_Luis_Borges]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>203109</ratings_count>
+<text_reviews_count>11966</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>1007116</id>
+  <uri>kca://work/amzn1.gr.work.v1.5cLAkkWC1BkCOIXKUWycJQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 14 12:42:52 -0700 2018</date_added>
+  <date_updated>Thu Jun 14 12:43:12 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Raccolta di racconti di Jorge Luis Borges.<br /><br />Immagini vertiginose che non ti lasciano. Invenzioni articolate, labirintiche, eruditissime, dal rigore matematico ma anche costellate di e del gusto del grottesco e quasi dello sberleffo, accostando alto e basso, tocchi di atmosfera argentina e dettagli libreschi cultura universale e strizzatine d'occhio al circolo ristretto di amici dell'autore.<br /><br />Un libro di lunghezza media, ma densissimo, di tutto: eresie di cui si \xc3\xa8 smarrito il senso, religioni e metafisiche di mondi alieni, biblioteche infinite, eroi e traditori, crimini immaginari, rimandi ad altri libri, reali o solo immaginati.<br /><br />Chi \xc3\xa8 digiuno di filosofia, come me, si perder\xc3\xa0 sicuramente qualcosa nei passaggi pi\xc3\xb9 filosofici, ma questo \xc3\xa8 pi\xc3\xb9 che compensato dal talento puro di narratore di Borges, che viene fuori nei racconti "semplicemente" (o quasi) polizieschi, che non mancano.<br /><br />Un'opera importante, memorabile. Soprattutto per chi ama i libri.<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2424061271]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2424061271]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2418338934</id>
+    <book>
+  <id type="integer">13562876</id>
+  <isbn>8845916022</isbn>
+  <isbn13>9788845916021</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2mDirNiTRYTDha14UyGWAg</uri>
+  <title>La difesa di Lu\xc5\xbein</title>
+  <title_without_series>La difesa di Lu\xc5\xbein</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1332868373m/13562876.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1332868373s/13562876.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13562876-la-difesa-di-lu-in</link>
+  <num_pages>231</num_pages>
+  <format>Paperback</format>
+  <edition_information>Biblioteca Adelphi #403</edition_information>
+  <publisher>Adelphi</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>8415</ratings_count>
+  <description>&lt;i&gt;La difesa di Lu\xc5\xbein&lt;/i&gt; (1929), primo capolavoro di Nabokov, \xc3\xa8 la storia di un conflitto insanabile tra genio e normalit\xc3\xa0, volont\xc3\xa0 e predestinazione, ragionevole esistere quotidiano e leggi del Fato, geloso delle prerogative che gli competono. Ed \xc3\xa8 anche \xe2\x80\x93 lo rivela gi\xc3\xa0 il titolo, che allude a un\xe2\x80\x99immaginaria mossa inventata dal protagonista \xe2\x80\x93 una storia di scacchi. Una storia costruita con sottile, deliberata ironia, come una lunga partita giocata contro la vita, che si dipana lungo l\xe2\x80\x99arco di vent\xe2\x80\x99anni tra una luminosa Pietroburgo imperiale, localit\xc3\xa0 termali tedesche e la Berlino degli anni Trenta, con i suoi ricchi emigranti russi.Al centro del romanzo, la figura del giovane Luzin: inerme di fronte agli altri, consegue attraverso il suo genio per gli scacchi un misterioso, insondabile potere che lo sospinge molto al di l\xc3\xa0 del mondo ordinario. Ma l\xe2\x80\x99ascesa e la caduta di Lu\xc5\xbein \xe2\x80\x93 da bambino svagato e geniale a campione perdente e suicida \xe2\x80\x93 sono anche l\xe2\x80\x99occasione per delineare in controluce, con raffinata sequenza di mosse, tra arrocchi, stalli, prese e abbandoni, una tessitura narrativa in cui dominano l\xe2\x80\x99ironia che investe l\xe2\x80\x99illusoriet\xc3\xa0 delle scelte libere e virtuose, contrastate dal disegno del caso, e l\xe2\x80\x99intuizione di una dimensione futura, al di l\xc3\xa0 dell\xe2\x80\x99umano.Il paradosso del libro \xc3\xa8 che l\xe2\x80\x99algido nitore degli scacchi converge con un alto pathos, come indic\xc3\xb2 lo stesso Nabokov: \xc2\xabFra tutti i miei libri russi, &lt;i&gt;La difesa di Lu\xc5\xbein&lt;/i&gt; contiene e diffonde il \xe2\x80\x9ccalore\xe2\x80\x9d pi\xc3\xb9 intenso, cosa apparentemente strana se si pensa quale supremo potere d\xe2\x80\x99astrazione si attribuisca agli scacchi\xc2\xbb. Pubblicato in russo nel 1930, &lt;i&gt;La difesa di Lu\xc5\xbein&lt;/i&gt; \xc3\xa8 stato tradotto in inglese, sotto il controllo dell\xe2\x80\x99Autore, nel 1964.</description>
+<authors>
+<author>
+<id>5152</id>
+<name>Vladimir Nabokov</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482502806p5/5152.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482502806p2/5152.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5152.Vladimir_Nabokov]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>1013203</ratings_count>
+<text_reviews_count>38692</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>1090182</id>
+  <uri>kca://work/amzn1.gr.work.v1.UokBsjfqeLN20FU4XWPJrQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jun 09 07:42:05 -0700 2018</date_added>
+  <date_updated>Sat Jun 09 07:42:26 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Romanzo di Vladimir Nabokov a tema scacchistico.<br /><br />Seguiamo la vita del personaggio che d\xc3\xa0 il titolo al libro: l'infanzia infelice, la scoperta del gioco degli scacchi, la rapida ascesa alla fama, la vita incolore da russo \xc3\xa9migr\xc3\xa9 in seguito alla rivoluzione bolscevica, e infine il matrimonio.<br /><br />Il protagonista non \xc3\xa8 certo un eroe a tutto tondo con il quale sia facile identificarsi, o per il quale provare simpatia. E' l'incarnazione del lato pi\xc3\xb9 freddamente razionalista e mono-maniacale che solitamente si attribuiscono agli scacchi. La "difesa" di Lu\xc5\xbein, oltre alla variante che ha studiato per il suo arcinemico, \xc3\xa8 a mio giudizio un riferimento al guscio che il nostro antieroe si costruisce per separarsi dal mondo, il suo disinteresse depressivo per tutto quel che c'\xc3\xa8 al di fuori della scacchiera, la mancanza di qualsivoglia slancio o anche solo tiepido interesse. Sino alla logica conclusione del romanzo. Povera la ragazza che prende l'inopinata decisione di sposarselo.<br /><br />Sullo sfondo, il malessere della comunit\xc3\xa0 emigrata, fatta di benestanti decaduti, che guardano con nostalgia ad una infanzia idealizzata, in grandi ville con servit\xc3\xb9, nel fascino della campagna russa. In questo, Nabokov attinge probabilmente alla sua esperienza personale.<br /><br />Insomma, una narrazione volutamente all'insegna del grigiore e del disagio. E quindi, un libro che non si pu\xc3\xb2 consigliare come lettura estiva di svago.<br /><br />Non posso dare un giudizio completo sulla qualit\xc3\xa0 della traduzione italiana (di Gianroberto Scarcia e Ugo Tessitore, edizione Adelphi), ma da scacchista storco il naso nel vedere chiamati "pedine" i "pedoni", ed altri piccoli orrori che si sarebbero potuti risparmiare semplicemente facendo rivedere le bozze da un qualsiasi giocatore di circolo.<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2418338934]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2418338934]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2412918464</id>
+    <book>
+  <id type="integer">38610806</id>
+  <isbn>8804583452</isbn>
+  <isbn13>9788804583455</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eXkxIApKCQVEMlV8Rzzo5g</uri>
+  <title>Le meraviglie di Milano</title>
+  <title_without_series>Le meraviglie di Milano</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1518946273m/38610806.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1518946273s/38610806.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38610806-le-meraviglie-di-milano</link>
+  <num_pages>264</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Fondazione Valla. Scrittori greci e latini</edition_information>
+  <publisher>Mondadori</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>4</ratings_count>
+  <description>&lt;p&gt;Il &lt;i&gt;De magnalibus Mediolani&lt;/i&gt; \xc3\xa8 un'opera vivissima, piena di suggestioni per il lettore di oggi, scritta dal pi\xc3\xb9 grande autore lombardo del Duecento, Bonvesin da la Riva. Bonvesin ci regala una affascinante descrizione di Milano su molteplici livelli, un'opera che offre la possibilit\xc3\xa0 di camminare con un pizzico di immaginazione fra le antiche case con i "coperti", le torri, le belle chiese, il rosso dei mattoni che si affacciano sul verde delle "ripe", tra fiumi pescosi e lucenti canali, il tutto avvolto in un grande flusso vitale. Con una felice regia, l'autore fa rivivere la realt\xc3\xa0 cittadina del suo tempo, le condizioni sociali, politiche, economiche di una citt\xc3\xa0 dai fitti commerci e dalla nascente industria, ma tormentata dalle ambizioni dei potenti. Introduzione e note di Maria Corti.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>3501714</id>
+<name>Bonvesin de la Riva</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3501714.Bonvesin_de_la_Riva]]></link>
+<average_rating>3.50</average_rating>
+<ratings_count>4</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>47367579</id>
+  <uri>kca://work/amzn1.gr.work.v1.RI1VGQXjK3beyH3p6iB16Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 04 06:21:23 -0700 2018</date_added>
+  <date_updated>Mon Jul 30 02:27:05 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Un buffo trattatello medievale, di tale Bonvesin della Riva, che tesse le lodi della citt\xc3\xa0 di Milano per le sue molte qualit\xc3\xa0. Ad esempio, "i nativi ... sono d'una statura piuttosto alta, ilari e benigni nell'aspetto". Alcuni dati numerici, sulla popolazione di citt\xc3\xa0 e contado, e la mole dei loro commerci, potranno forse essere di interesse per lo studioso.<br /><br />L'originale \xc3\xa8 scritto in latino, io ho letto una traduzione del 1921 che concorre rendere lo stile pomposo e convenzionale. Ciononostante, si riescono ad apprezzare alcuni scampoli di spontaneit\xc3\xa0, come l'elenco delle verdure coltivate, che fanno venire appetito.<br /><br />Il testo \xc3\xa8 piuttosto breve, se si escludono note e introduzione biografica. Di qualche interesse solo si \xc3\xa8 interessati alla storia medievale e/o milanese.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2412918464]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2412918464]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2404161548</id>
+    <book>
+  <id type="integer">7117617</id>
+  <isbn>8807017989</isbn>
+  <isbn13>9788807017988</isbn13>
+  <text_reviews_count type="integer">99</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.D7YZjceD8xBfg13ALw1rQQ</uri>
+  <title>Emmaus</title>
+  <title_without_series>Emmaus</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1340752498m/7117617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1340752498s/7117617.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7117617-emmaus</link>
+  <num_pages>139</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Feltrinelli</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.28</average_rating>
+  <ratings_count>2721</ratings_count>
+  <description>\xe2\x80\x9cAbbiamo tutti sedici, diciassette anni ma senza saperlo veramente, \xc3\xa8 l'unica et\xc3\xa0 che possiamo immaginare: a stento sappiamo il passato\xe2\x80\x9d. Con queste parole inizia il nuovo romanzo di Alessandro Baricco, Emmaus. Il titolo evoca l'episodio narrato nel vangelo di Luca in cui due discepoli incontrano Ges\xc3\xb9 Risorto, senza riconoscerlo, sulla strada che va da Gerusalemme a Emmaus. I protagonisti sono quattro ragazzi diciassettenni divisi tra scuola e parrocchia. La citt\xc3\xa0 che fa da sfondo alla vicenda, pur non essendo nominata, sembra proprio essere Torino.&lt;br /&gt;Di Emmaus Domenico Starnone ha scritto: \xe2\x80\x9fUn libro su com\xe2\x80\x99\xc3\xa8 difficile vedere davvero, in tutti i tempi e in questo nostro tempo.\xe2\x80\x9d</description>
+<authors>
+<author>
+<id>908</id>
+<name>Alessandro Baricco</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406652399p5/908.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406652399p2/908.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/908.Alessandro_Baricco]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>94609</ratings_count>
+<text_reviews_count>6633</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>7378200</id>
+  <uri>kca://work/amzn1.gr.work.v1.vfb8kpVLVfmf0-eTDjWBDQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun May 27 03:06:20 -0700 2018</date_added>
+  <date_updated>Sun May 27 03:06:33 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<br />Un romanzo di Alessandro Baricco.<br /><br />Seguiamo le vite di quattro ragazzi cattolici, tra tensione spirituale e vicende di amore, morte e perdizione.<br /><br />Il linguaggio \xc3\xa8 sempre molto curato, nessuna parola sta l\xc3\xac per caso. Ma \xc3\xa8 difficile immedesimarsi nel protagonista: le vicende sono troppo estreme ed esemplari, con un qualche senso esistenziale nascosto che non viene mai chiarito. Arrivati in fondo, si resta nel dubbio di essere rimasti ipnotizzati da un gioco di prestigio, da un esercizio virtuosistico senz'anima. O "Senza Sangue", come l'autore forse autoironicamente ha intitolato un altro suo libro.<br /><br />Preferisco ancora Baricco quando parla di libri altrui, o di tecnica dello scrivere.<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2404161548]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2404161548]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2403395514</id>
+    <book>
+  <id type="integer">3873</id>
+  <isbn>0517223120</isbn>
+  <isbn13>9780517223123</isbn13>
+  <text_reviews_count type="integer">1026</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eAt7VxWLiMXWQPviY5rOfw</uri>
+  <title>A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam</title>
+  <title_without_series>A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3873.A_History_of_God</link>
+  <num_pages>460</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Gramercy Books</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.86</average_rating>
+  <ratings_count>39588</ratings_count>
+  <description>Armstrong, a British journalist and former nun, guides us along one of the most elusive and fascinating quests of all time--the search for God. Like all beloved historians, Armstrong entertains us with deft storytelling, astounding research, and makes us feel a greater appreciation for the present because we better understand our past. Be warned: &lt;i&gt;A History of God&lt;/i&gt; is not a tidy linear history. Rather, we learn that the definition of God is constantly being repeated, altered, discarded, and resurrected through the ages, responding to its followers' practical concerns rather than to mystical mandates. Armstrong also shows us how Judaism, Christianity, and Islam have overlapped and influenced one another, gently challenging the secularist history of each of these religions. &lt;i&gt;--Gail Hudson&lt;/i&gt;</description>
+<authors>
+<author>
+<id>2637</id>
+<name>Karen Armstrong</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1529333411p5/2637.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1529333411p2/2637.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2637.Karen_Armstrong]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>100439</ratings_count>
+<text_reviews_count>6863</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2011826</id>
+  <uri>kca://work/amzn1.gr.work.v1.ufDk0ETsainIcA-9D5EscQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 26 08:07:57 -0700 2018</date_added>
+  <date_updated>Sat May 26 08:08:26 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<br />Un excursus storico sulla teologia delle tre principali religioni monoteistiche: Cristianesimo, Ebraismo, e Islam. L'autrice \xc3\xa8 una ex suora, e rinomata studiosa delle religioni.<br /><br />Come si pu\xc3\xb2 immaginare, l'argomento \xc3\xa8 molto ampio e potenzialmente molto arduo. Nonostante la mole del volume, inevitabilmente la materia \xc3\xa8 trattata solo per sommi capi.<br /><br />Non ne sono uscito con le idee chiarissime. Spero di conservare almeno qualche nozione su Islam e Ebraismo, che non conoscevo praticamente per nulla.<br /><br />Mi rimane una diffidenza di fondo per l'infinita articolazione teorica che la teologia (ma anche la metafisica) ha prodotto nella storia, arrivando a risultati a volte bizzarri: una verit\xc3\xa0 cos\xc3\xac fondamentale non dovrebbe essere piuttosto semplice e auto-evidente? Il prodotto di una elaborazione teorica approfondita sar\xc3\xa0 inevitabilmente influenzato dai suoi autori, e dal contesto in cui \xc3\xa8 stato maturato: come si concilia questo con le posizioni di chi considera la propria fede l'unica vera? Pi\xc3\xb9 in generale, continua a lasciarmi freddo l'idea di un culto di un Dio personale e antropomorfo -- il che \xc3\xa8 anche la posizione personale dell'autrice.<br /><br />Il testo tratta invece con molto rispetto il misticismo e la meditazione, osservando che si tratta di un punto di arrivo comune a quasi tutte le religioni del mondo, in tempi e modi diversi. Spesso le dottrine mistiche hanno prodotto un sincretismo benevolo e tollerante, nulla a che vedere con la miopia dei fondamentalisti (delle diverse confessioni), che interpretano le proprie scritture alla lettera, e sono solitamente impegnati a definire il campo dei propri nemici, pi\xc3\xb9 che ad esplorare un qualche senso di Dio, con risultati profondamente anti-spirituali.<br /><br />Testo insomma impegnativo, ma buon punto di inizio per chi sia interessato ad affrontare seriamente l'argomento.<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2403395514]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2403395514]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2378778902</id>
+    <book>
+  <id type="integer">1860344</id>
+  <isbn>8806143549</isbn>
+  <isbn13>9788806143541</isbn13>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.E7_Y_Z4s9dKxvBC0hxW4Vg</uri>
+  <title>Branchie</title>
+  <title_without_series>Branchie</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1328043493m/1860344.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328043493s/1860344.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1860344.Branchie</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>Stile libero</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.21</average_rating>
+  <ratings_count>1213</ratings_count>
+  <description>Protagonista \xc3\xa8 un ragazzo che fabbrica acquari e studia il comportamento dei pesci. Malato di cancro, si trascina abulico da una festa all'altra al seguito di una fidanzatina, nei quartieri alti di Roma. Finch\xc3\xa9 gli arriva una proposta curiosa: trasferirsi in India e costruire un acquario per una misteriosa signora. L'India di Ammaniti si rivela un continente fragorosamente eccessivo, che sembra nato da una mente eccitata e febbricitante. Succede di tutto: il ragazzo \xc3\xa8 sequestrato da una banda di arancioni, si unisce a un gruppo di musicisti che vivono sottoterra, viene sedotto da una ragazza che vive in un castello, e scopre che la signora capeggia una banda di delinquenti specializzati in trapianti di organi prelevati ad indiani vivi.</description>
+<authors>
+<author>
+<id>243571</id>
+<name>Niccol\xc3\xb2 Ammaniti</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242756363p5/243571.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242756363p2/243571.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/243571.Niccol_Ammaniti]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>40569</ratings_count>
+<text_reviews_count>2999</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1861009</id>
+  <uri>kca://work/amzn1.gr.work.v1.sMzQz71OG-_ExxjBAO4-6A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="123557012" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 11:09:20 -0700 2018</date_added>
+  <date_updated>Tue May 01 11:09:48 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Il primo romanzo di Niccol\xc3\xb2 Ammaniti.<br /><br />Un'avventura che parte piano, come storia di un personaggio ordinario, ancorch\xc3\xa8 malato, che si muove tra le feste della Roma bene degli anni '90. Poi gli eventi si accavallano e si fanno via via pi\xc3\xb9 grotteschi, mescolando alto e basso, esotismo e cultura pop, sesso e dettagli da grand-guignol. "Sangue e mmerda", come diceva quel comico, ma il giusto grado di umorismo che non fa prendere troppo sul serio il tutto.<br /><br />Tra musicisti indiani e abitatori sardi delle fogne, tra "Questo piccolo grande amore" e variazioni Goldberg, panini con la pancetta e maionese a nuova Delhi e scienziati pazzi, si arriva all'improbabile epilogo. <br /><br />Molto divertente, anche se immagino alla lunga stancherebbe.<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378778902]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378778902]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
